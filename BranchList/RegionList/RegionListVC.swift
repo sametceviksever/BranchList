@@ -14,13 +14,19 @@ public class RegionListVC: UIViewController {
   }
   @IBOutlet weak var tableView: UITableView!
   
-  fileprivate var viewModel: RegionListViewModel!
+  fileprivate var viewModel: RegionListViewModel! = RegionListViewModel(countries: [])
   public var refreshController: UIRefreshControl = UIRefreshControl()
   
   override public func viewDidLoad() {
     super.viewDidLoad()
-    viewModel = RegionListViewModel(countries: AppHelper.shared.countries)
     viewModel.configure(controller: self)
+  }
+  
+  public override func viewDidAppear(_ animated: Bool) {
+    if let indexPath = viewModel.selectedIndex {
+      let cell = tableView.cellForRow(at: indexPath)
+      cell?.setSelected(false, animated: true)
+    }
   }
   
   @objc public func refresh() {
@@ -50,6 +56,8 @@ extension RegionListVC: UITableViewDataSource {
 
 extension RegionListVC: UITableViewDelegate {
   public func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+    viewModel.selectedIndex = indexPath
+    
     let branches = viewModel.getBranches(at: indexPath)
     let region = viewModel.getRegion(at: indexPath)
     let vc = BranchListVC.create(with: branches)
@@ -63,5 +71,9 @@ extension RegionListVC: AppHelperDelegate {
     refreshController.endRefreshing()
     viewModel = RegionListViewModel(countries: countries)
     tableView.reloadData()
+  }
+  
+  public func thereIsAnAlert(alertView: UIAlertController) {
+    present(alertView, animated: true, completion: nil)
   }
 }

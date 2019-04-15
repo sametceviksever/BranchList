@@ -10,7 +10,9 @@ import UIKit
 
 public class BranchListViewModel {
   private let cellId: String = "cellId"
-  let branches: [Branch]
+  
+  public var selectedIndex: IndexPath?
+  private let branches: [Branch]
   
   public init(branches: [Branch]) {
     self.branches = branches

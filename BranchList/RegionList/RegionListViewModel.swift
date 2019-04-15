@@ -10,6 +10,7 @@ import UIKit
 
 public class RegionListViewModel {
   var countries: [Country]
+  var selectedIndex: IndexPath?
   private let cellId: String = "cell"
   
   public init(countries: [Country]) {

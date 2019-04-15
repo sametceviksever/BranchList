@@ -24,6 +24,13 @@ class BranchListVC: UIViewController, Reusable {
     super.viewDidLoad()
     viewModel.registerCell(to: tableView)
   }
+  
+  public override func viewDidAppear(_ animated: Bool) {
+    if let indexPath = viewModel.selectedIndex {
+      let cell = tableView.cellForRow(at: indexPath)
+      cell?.setSelected(false, animated: true)
+    }
+  }
 }
 
 extension BranchListVC: UITableViewDataSource {
@@ -39,6 +46,7 @@ extension BranchListVC: UITableViewDataSource {
 
 extension BranchListVC: UITableViewDelegate {
   func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+    viewModel.selectedIndex = indexPath
     let branch = viewModel.getBranch(at: indexPath)
     let vc = BranchDetailVC.create(with: branch)
     navigationController?.pushViewController(vc, animated: true)
