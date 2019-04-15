@@ -8,24 +8,114 @@
 
 /* Begin PBXBuildFile section */
 		A2D723A52261BB1F00BA4DAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723A42261BB1F00BA4DAF /* AppDelegate.swift */; };
-		A2D723A72261BB1F00BA4DAF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723A62261BB1F00BA4DAF /* ViewController.swift */; };
 		A2D723AA2261BB1F00BA4DAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D723A82261BB1F00BA4DAF /* Main.storyboard */; };
 		A2D723AC2261BB2000BA4DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D723AB2261BB2000BA4DAF /* Assets.xcassets */; };
 		A2D723AF2261BB2000BA4DAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D723AD2261BB2000BA4DAF /* LaunchScreen.storyboard */; };
+		A2D723BE22621F9800BA4DAF /* FileOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723BD22621F9800BA4DAF /* FileOperation.swift */; };
+		A2D723C12262281800BA4DAF /* DataExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723C02262281800BA4DAF /* DataExtension.swift */; };
+		A2D723C3226243DE00BA4DAF /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */; };
+		A2D723CB2262459500BA4DAF /* BranchListFileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723CA2262459500BA4DAF /* BranchListFileTests.swift */; };
+		A2D723D3226246DD00BA4DAF /* CountryEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723D2226246DD00BA4DAF /* CountryEnum.swift */; };
+		A2D723D9226257F900BA4DAF /* URLResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723D8226257F900BA4DAF /* URLResponse.swift */; };
+		A2D723DB2262583D00BA4DAF /* HTTPEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723DA2262583D00BA4DAF /* HTTPEnums.swift */; };
+		A2D723DD2262586A00BA4DAF /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723DC2262586A00BA4DAF /* Network.swift */; };
+		A2D723E0226258C500BA4DAF /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723DF226258C500BA4DAF /* Errors.swift */; };
+		A2D723E2226259A200BA4DAF /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723E1226259A200BA4DAF /* Request.swift */; };
+		A2D723E622625D1300BA4DAF /* BankLocationRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723E522625D1300BA4DAF /* BankLocationRequest.swift */; };
+		A2D723E82262624F00BA4DAF /* BranchListNetworkTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723E72262624F00BA4DAF /* BranchListNetworkTest.swift */; };
+		A2D723EA2262896700BA4DAF /* Branch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723E92262896700BA4DAF /* Branch.swift */; };
+		A2D723EC22628C7100BA4DAF /* BranchListModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723EB22628C7100BA4DAF /* BranchListModelTest.swift */; };
+		A2D723EE2262906700BA4DAF /* AppHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723ED2262906700BA4DAF /* AppHelper.swift */; };
+		A2D723F02262F0F300BA4DAF /* Region.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723EF2262F0F300BA4DAF /* Region.swift */; };
+		A2D723F22262F16500BA4DAF /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723F12262F16500BA4DAF /* Country.swift */; };
+		A2D723F52262F84D00BA4DAF /* RegionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723F42262F84D00BA4DAF /* RegionListViewModel.swift */; };
+		A2D723F72262F97000BA4DAF /* RegionListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723F62262F97000BA4DAF /* RegionListVC.swift */; };
+		A2D723F922630A3C00BA4DAF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723F822630A3C00BA4DAF /* ViewController.swift */; };
+		A2D723FD2263161D00BA4DAF /* BranchListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723FB2263161D00BA4DAF /* BranchListVC.swift */; };
+		A2D723FE2263161D00BA4DAF /* BranchListVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D723FC2263161D00BA4DAF /* BranchListVC.xib */; };
+		A2D724022263165300BA4DAF /* BranchTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724002263165300BA4DAF /* BranchTVC.swift */; };
+		A2D724032263165300BA4DAF /* BranchTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D724012263165300BA4DAF /* BranchTVC.xib */; };
+		A2D7240522643EA700BA4DAF /* BranchListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240422643EA700BA4DAF /* BranchListViewModel.swift */; };
+		A2D724072264410600BA4DAF /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724062264410600BA4DAF /* Reusable.swift */; };
+		A2D724092264421000BA4DAF /* UITableView+Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724082264421000BA4DAF /* UITableView+Reusable.swift */; };
+		A2D7240B2264431A00BA4DAF /* UIViewController+Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */; };
+		A2D7240F2264469100BA4DAF /* BranchDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240D2264469100BA4DAF /* BranchDetailVC.swift */; };
+		A2D724102264469100BA4DAF /* BranchDetailVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D7240E2264469100BA4DAF /* BranchDetailVC.xib */; };
+		A2D7241222646A4A00BA4DAF /* lithuania.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241122646A4A00BA4DAF /* lithuania.json */; };
+		A2D7241422646A5800BA4DAF /* TestHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241322646A5800BA4DAF /* TestHelper.swift */; };
+		A2D72415226470A300BA4DAF /* lithuania.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241122646A4A00BA4DAF /* lithuania.json */; };
+		A2D724172264745000BA4DAF /* MultipleCallHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724162264745000BA4DAF /* MultipleCallHelper.swift */; };
+		A2D7241922649D1200BA4DAF /* BranchDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241822649D1200BA4DAF /* BranchDetailViewModel.swift */; };
+		A2D7241D2264A25000BA4DAF /* BranchDetailTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */; };
+		A2D7241E2264A25000BA4DAF /* BranchDetailTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A2D723CD2262459500BA4DAF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A2D723992261BB1F00BA4DAF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A2D723A02261BB1F00BA4DAF;
+			remoteInfo = BranchList;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		A2D723A12261BB1F00BA4DAF /* BranchList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BranchList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D723A42261BB1F00BA4DAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A2D723A62261BB1F00BA4DAF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A2D723A92261BB1F00BA4DAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A2D723AB2261BB2000BA4DAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2D723AE2261BB2000BA4DAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2D723B02261BB2000BA4DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2D723BD22621F9800BA4DAF /* FileOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileOperation.swift; sourceTree = "<group>"; };
+		A2D723C02262281800BA4DAF /* DataExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataExtension.swift; sourceTree = "<group>"; };
+		A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionaryExtension.swift; sourceTree = "<group>"; };
+		A2D723C82262459500BA4DAF /* BranchListFileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BranchListFileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2D723CA2262459500BA4DAF /* BranchListFileTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListFileTests.swift; sourceTree = "<group>"; };
+		A2D723CC2262459500BA4DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2D723D2226246DD00BA4DAF /* CountryEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryEnum.swift; sourceTree = "<group>"; };
+		A2D723D8226257F900BA4DAF /* URLResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLResponse.swift; sourceTree = "<group>"; };
+		A2D723DA2262583D00BA4DAF /* HTTPEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPEnums.swift; sourceTree = "<group>"; };
+		A2D723DC2262586A00BA4DAF /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		A2D723DF226258C500BA4DAF /* Errors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Errors.swift; sourceTree = "<group>"; };
+		A2D723E1226259A200BA4DAF /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
+		A2D723E522625D1300BA4DAF /* BankLocationRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankLocationRequest.swift; sourceTree = "<group>"; };
+		A2D723E72262624F00BA4DAF /* BranchListNetworkTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListNetworkTest.swift; sourceTree = "<group>"; };
+		A2D723E92262896700BA4DAF /* Branch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Branch.swift; sourceTree = "<group>"; };
+		A2D723EB22628C7100BA4DAF /* BranchListModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListModelTest.swift; sourceTree = "<group>"; };
+		A2D723ED2262906700BA4DAF /* AppHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppHelper.swift; sourceTree = "<group>"; };
+		A2D723EF2262F0F300BA4DAF /* Region.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Region.swift; sourceTree = "<group>"; };
+		A2D723F12262F16500BA4DAF /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		A2D723F42262F84D00BA4DAF /* RegionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionListViewModel.swift; sourceTree = "<group>"; };
+		A2D723F62262F97000BA4DAF /* RegionListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionListVC.swift; sourceTree = "<group>"; };
+		A2D723F822630A3C00BA4DAF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A2D723FB2263161D00BA4DAF /* BranchListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListVC.swift; sourceTree = "<group>"; };
+		A2D723FC2263161D00BA4DAF /* BranchListVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchListVC.xib; sourceTree = "<group>"; };
+		A2D724002263165300BA4DAF /* BranchTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchTVC.swift; sourceTree = "<group>"; };
+		A2D724012263165300BA4DAF /* BranchTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchTVC.xib; sourceTree = "<group>"; };
+		A2D7240422643EA700BA4DAF /* BranchListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListViewModel.swift; sourceTree = "<group>"; };
+		A2D724062264410600BA4DAF /* Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
+		A2D724082264421000BA4DAF /* UITableView+Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Reusable.swift"; sourceTree = "<group>"; };
+		A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Reusable.swift"; sourceTree = "<group>"; };
+		A2D7240D2264469100BA4DAF /* BranchDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailVC.swift; sourceTree = "<group>"; };
+		A2D7240E2264469100BA4DAF /* BranchDetailVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchDetailVC.xib; sourceTree = "<group>"; };
+		A2D7241122646A4A00BA4DAF /* lithuania.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lithuania.json; sourceTree = "<group>"; };
+		A2D7241322646A5800BA4DAF /* TestHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestHelper.swift; sourceTree = "<group>"; };
+		A2D724162264745000BA4DAF /* MultipleCallHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleCallHelper.swift; sourceTree = "<group>"; };
+		A2D7241822649D1200BA4DAF /* BranchDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailViewModel.swift; sourceTree = "<group>"; };
+		A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailTVC.swift; sourceTree = "<group>"; };
+		A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchDetailTVC.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		A2D7239E2261BB1F00BA4DAF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A2D723C52262459500BA4DAF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				A2D723A32261BB1F00BA4DAF /* BranchList */,
+				A2D723C92262459500BA4DAF /* BranchListFileTests */,
 				A2D723A22261BB1F00BA4DAF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -47,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				A2D723A12261BB1F00BA4DAF /* BranchList.app */,
+				A2D723C82262459500BA4DAF /* BranchListFileTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -54,14 +146,145 @@
 		A2D723A32261BB1F00BA4DAF /* BranchList */ = {
 			isa = PBXGroup;
 			children = (
-				A2D723A42261BB1F00BA4DAF /* AppDelegate.swift */,
-				A2D723A62261BB1F00BA4DAF /* ViewController.swift */,
-				A2D723A82261BB1F00BA4DAF /* Main.storyboard */,
+				A2D7240C2264467600BA4DAF /* BranchDetail */,
+				A2D723FA2263160300BA4DAF /* BranchList */,
+				A2D723F32262F82F00BA4DAF /* RegionList */,
+				A2D723E422625D0000BA4DAF /* Base */,
+				A2D723E322625CF800BA4DAF /* Application */,
+				A2D723D422624CD600BA4DAF /* Network */,
+				A2D723BF2262280C00BA4DAF /* Extension */,
+				A2D723BC22621F7900BA4DAF /* FileOperation */,
 				A2D723AB2261BB2000BA4DAF /* Assets.xcassets */,
-				A2D723AD2261BB2000BA4DAF /* LaunchScreen.storyboard */,
 				A2D723B02261BB2000BA4DAF /* Info.plist */,
+				A2D723F822630A3C00BA4DAF /* ViewController.swift */,
+				A2D7241122646A4A00BA4DAF /* lithuania.json */,
 			);
 			path = BranchList;
+			sourceTree = "<group>";
+		};
+		A2D723BC22621F7900BA4DAF /* FileOperation */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723BD22621F9800BA4DAF /* FileOperation.swift */,
+			);
+			path = FileOperation;
+			sourceTree = "<group>";
+		};
+		A2D723BF2262280C00BA4DAF /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723C02262281800BA4DAF /* DataExtension.swift */,
+				A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */,
+				A2D724082264421000BA4DAF /* UITableView+Reusable.swift */,
+				A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		A2D723C92262459500BA4DAF /* BranchListFileTests */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723EB22628C7100BA4DAF /* BranchListModelTest.swift */,
+				A2D723E72262624F00BA4DAF /* BranchListNetworkTest.swift */,
+				A2D723CA2262459500BA4DAF /* BranchListFileTests.swift */,
+				A2D723CC2262459500BA4DAF /* Info.plist */,
+				A2D7241322646A5800BA4DAF /* TestHelper.swift */,
+			);
+			path = BranchListFileTests;
+			sourceTree = "<group>";
+		};
+		A2D723D422624CD600BA4DAF /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723DF226258C500BA4DAF /* Errors.swift */,
+				A2D723D52262573900BA4DAF /* Enum */,
+				A2D723DC2262586A00BA4DAF /* Network.swift */,
+				A2D724162264745000BA4DAF /* MultipleCallHelper.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		A2D723D52262573900BA4DAF /* Enum */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723D8226257F900BA4DAF /* URLResponse.swift */,
+				A2D723DA2262583D00BA4DAF /* HTTPEnums.swift */,
+				A2D723E1226259A200BA4DAF /* Request.swift */,
+			);
+			path = Enum;
+			sourceTree = "<group>";
+		};
+		A2D723E322625CF800BA4DAF /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723AD2261BB2000BA4DAF /* LaunchScreen.storyboard */,
+				A2D723A82261BB1F00BA4DAF /* Main.storyboard */,
+				A2D723A42261BB1F00BA4DAF /* AppDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		A2D723E422625D0000BA4DAF /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723D2226246DD00BA4DAF /* CountryEnum.swift */,
+				A2D723E522625D1300BA4DAF /* BankLocationRequest.swift */,
+				A2D723E92262896700BA4DAF /* Branch.swift */,
+				A2D723ED2262906700BA4DAF /* AppHelper.swift */,
+				A2D723EF2262F0F300BA4DAF /* Region.swift */,
+				A2D723F12262F16500BA4DAF /* Country.swift */,
+				A2D724062264410600BA4DAF /* Reusable.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		A2D723F32262F82F00BA4DAF /* RegionList */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723F42262F84D00BA4DAF /* RegionListViewModel.swift */,
+				A2D723F62262F97000BA4DAF /* RegionListVC.swift */,
+			);
+			path = RegionList;
+			sourceTree = "<group>";
+		};
+		A2D723FA2263160300BA4DAF /* BranchList */ = {
+			isa = PBXGroup;
+			children = (
+				A2D723FF2263164000BA4DAF /* View */,
+				A2D723FB2263161D00BA4DAF /* BranchListVC.swift */,
+				A2D723FC2263161D00BA4DAF /* BranchListVC.xib */,
+				A2D7240422643EA700BA4DAF /* BranchListViewModel.swift */,
+			);
+			path = BranchList;
+			sourceTree = "<group>";
+		};
+		A2D723FF2263164000BA4DAF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A2D724002263165300BA4DAF /* BranchTVC.swift */,
+				A2D724012263165300BA4DAF /* BranchTVC.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A2D7240C2264467600BA4DAF /* BranchDetail */ = {
+			isa = PBXGroup;
+			children = (
+				A2D7241A2264A23500BA4DAF /* View */,
+				A2D7240D2264469100BA4DAF /* BranchDetailVC.swift */,
+				A2D7240E2264469100BA4DAF /* BranchDetailVC.xib */,
+				A2D7241822649D1200BA4DAF /* BranchDetailViewModel.swift */,
+			);
+			path = BranchDetail;
+			sourceTree = "<group>";
+		};
+		A2D7241A2264A23500BA4DAF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */,
+				A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,6 +307,24 @@
 			productReference = A2D723A12261BB1F00BA4DAF /* BranchList.app */;
 			productType = "com.apple.product-type.application";
 		};
+		A2D723C72262459500BA4DAF /* BranchListFileTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A2D723CF2262459500BA4DAF /* Build configuration list for PBXNativeTarget "BranchListFileTests" */;
+			buildPhases = (
+				A2D723C42262459500BA4DAF /* Sources */,
+				A2D723C52262459500BA4DAF /* Frameworks */,
+				A2D723C62262459500BA4DAF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A2D723CE2262459500BA4DAF /* PBXTargetDependency */,
+			);
+			name = BranchListFileTests;
+			productName = BranchListFileTests;
+			productReference = A2D723C82262459500BA4DAF /* BranchListFileTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -96,6 +337,10 @@
 				TargetAttributes = {
 					A2D723A02261BB1F00BA4DAF = {
 						CreatedOnToolsVersion = 10.2;
+					};
+					A2D723C72262459500BA4DAF = {
+						CreatedOnToolsVersion = 10.2;
+						TestTargetID = A2D723A02261BB1F00BA4DAF;
 					};
 				};
 			};
@@ -113,6 +358,7 @@
 			projectRoot = "";
 			targets = (
 				A2D723A02261BB1F00BA4DAF /* BranchList */,
+				A2D723C72262459500BA4DAF /* BranchListFileTests */,
 			);
 		};
 /* End PBXProject section */
@@ -122,9 +368,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2D723FE2263161D00BA4DAF /* BranchListVC.xib in Resources */,
 				A2D723AF2261BB2000BA4DAF /* LaunchScreen.storyboard in Resources */,
+				A2D7241E2264A25000BA4DAF /* BranchDetailTVC.xib in Resources */,
+				A2D72415226470A300BA4DAF /* lithuania.json in Resources */,
 				A2D723AC2261BB2000BA4DAF /* Assets.xcassets in Resources */,
+				A2D724032263165300BA4DAF /* BranchTVC.xib in Resources */,
 				A2D723AA2261BB1F00BA4DAF /* Main.storyboard in Resources */,
+				A2D724102264469100BA4DAF /* BranchDetailVC.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A2D723C62262459500BA4DAF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A2D7241222646A4A00BA4DAF /* lithuania.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,12 +394,57 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2D723A72261BB1F00BA4DAF /* ViewController.swift in Sources */,
+				A2D7240F2264469100BA4DAF /* BranchDetailVC.swift in Sources */,
+				A2D723F52262F84D00BA4DAF /* RegionListViewModel.swift in Sources */,
+				A2D723F72262F97000BA4DAF /* RegionListVC.swift in Sources */,
 				A2D723A52261BB1F00BA4DAF /* AppDelegate.swift in Sources */,
+				A2D724092264421000BA4DAF /* UITableView+Reusable.swift in Sources */,
+				A2D723C12262281800BA4DAF /* DataExtension.swift in Sources */,
+				A2D7241922649D1200BA4DAF /* BranchDetailViewModel.swift in Sources */,
+				A2D723EE2262906700BA4DAF /* AppHelper.swift in Sources */,
+				A2D7240B2264431A00BA4DAF /* UIViewController+Reusable.swift in Sources */,
+				A2D723FD2263161D00BA4DAF /* BranchListVC.swift in Sources */,
+				A2D723DD2262586A00BA4DAF /* Network.swift in Sources */,
+				A2D723D9226257F900BA4DAF /* URLResponse.swift in Sources */,
+				A2D723BE22621F9800BA4DAF /* FileOperation.swift in Sources */,
+				A2D723E622625D1300BA4DAF /* BankLocationRequest.swift in Sources */,
+				A2D723EA2262896700BA4DAF /* Branch.swift in Sources */,
+				A2D723DB2262583D00BA4DAF /* HTTPEnums.swift in Sources */,
+				A2D724072264410600BA4DAF /* Reusable.swift in Sources */,
+				A2D723D3226246DD00BA4DAF /* CountryEnum.swift in Sources */,
+				A2D724022263165300BA4DAF /* BranchTVC.swift in Sources */,
+				A2D723F922630A3C00BA4DAF /* ViewController.swift in Sources */,
+				A2D723E2226259A200BA4DAF /* Request.swift in Sources */,
+				A2D7240522643EA700BA4DAF /* BranchListViewModel.swift in Sources */,
+				A2D723F02262F0F300BA4DAF /* Region.swift in Sources */,
+				A2D723E0226258C500BA4DAF /* Errors.swift in Sources */,
+				A2D723F22262F16500BA4DAF /* Country.swift in Sources */,
+				A2D723C3226243DE00BA4DAF /* DictionaryExtension.swift in Sources */,
+				A2D7241D2264A25000BA4DAF /* BranchDetailTVC.swift in Sources */,
+				A2D724172264745000BA4DAF /* MultipleCallHelper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A2D723C42262459500BA4DAF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A2D723E82262624F00BA4DAF /* BranchListNetworkTest.swift in Sources */,
+				A2D723CB2262459500BA4DAF /* BranchListFileTests.swift in Sources */,
+				A2D723EC22628C7100BA4DAF /* BranchListModelTest.swift in Sources */,
+				A2D7241422646A5800BA4DAF /* TestHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A2D723CE2262459500BA4DAF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A2D723A02261BB1F00BA4DAF /* BranchList */;
+			targetProxy = A2D723CD2262459500BA4DAF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		A2D723A82261BB1F00BA4DAF /* Main.storyboard */ = {
@@ -314,6 +618,46 @@
 			};
 			name = Release;
 		};
+		A2D723D02262459500BA4DAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U262ANHQA6;
+				INFOPLIST_FILE = BranchListFileTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = sametceviksever.BranchListFileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BranchList.app/BranchList";
+			};
+			name = Debug;
+		};
+		A2D723D12262459500BA4DAF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U262ANHQA6;
+				INFOPLIST_FILE = BranchListFileTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = sametceviksever.BranchListFileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BranchList.app/BranchList";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -331,6 +675,15 @@
 			buildConfigurations = (
 				A2D723B42261BB2000BA4DAF /* Debug */,
 				A2D723B52261BB2000BA4DAF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A2D723CF2262459500BA4DAF /* Build configuration list for PBXNativeTarget "BranchListFileTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A2D723D02262459500BA4DAF /* Debug */,
+				A2D723D12262459500BA4DAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

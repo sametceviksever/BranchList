@@ -1,0 +1,3602 @@
+[
+{
+"t": 0,
+"n": "ROKIŠKIS",
+"a": "Nepriklausomybės a. 24, Rokiškis",
+"av": "I-IV 9.00-17.00V 9.00-16.30 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Rokiškis",
+"lat": 55.96390308,
+"lon": 25.5871582,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ŠAKIAI",
+"a": "V. Kudirkos g. 61",
+"av": "I-V 9.00-13.00 be registracijosI-IV 13.30-17.00, V 13.30-16.00 tik iš anksto užsiregistravus\n",
+"lat": 54.95354396,
+"lon": 23.04584026,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "ANYKŠČIAI",
+"a": "J. Biliūno g. 11, Anykščiai",
+"av": "I-IV 9.00-17.30V 9.00-16.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Anykščiai",
+"lat": 55.5258128,
+"lon": 25.10811567,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "MEGA KAC",
+"a": "Islandijos pl. 32, Kaunas",
+"av": "I-V 10.00-19.00VI 10.00-15.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Kaunas",
+"lat": 54.93884129,
+"lon": 23.89391184,
+"i": "PC \"Mega\""
+},
+{
+"t": 0,
+"n": "UNIVERSITETO",
+"a": "H. Manto g. 90-1, Klaipėda",
+"av": "I-V 10.00-18.00 VI 10.00-15.00\n",
+"r": "Klaipėda",
+"lat": 55.72454828,
+"lon": 21.12387657,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "DAINAVOS KAC",
+"a": "S. Dariaus ir S. Girėno g. 13, Alytus",
+"av": "I-IV 9.00-18.00\nV 9.00-17.00\n",
+"r": "Alytus",
+"lat": 54.39560091,
+"lon": 24.0494585,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "TRAKAI",
+"a": "Vytauto g. 37/1, Trakai",
+"av": "I-V 9.00-13.00 be registracijos I-V 14.00-17.00 tik iš anksto užsiregistravus\n",
+"r": "Trakai",
+"lat": 54.64211749,
+"lon": 24.93227005,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "MOLO KAC",
+"a": "K. Baršausko g. 66A, Kaunas",
+"av": "I-V 10.00-19.00VI 10.00-15.00\n",
+"r": "Kaunas",
+"lat": 54.90040164,
+"lon": 23.96783352,
+"i": "PC \"Molas\""
+},
+{
+"t": 0,
+"n": "PRIVAČIOJI KNS",
+"a": "Karaliaus Mindaugo pr. 37, Kaunas",
+"av": "I-V 9.00-18.00\n",
+"r": "Kaunas",
+"lat": 54.89443198,
+"lon": 23.91374027,
+"i": "Yra visą parą veikianti savitarnos erdvė."
+},
+{
+"t": 0,
+"n": "BIRŽAI",
+"a": "Vytauto g. 22, Biržai",
+"av": "I-IV 9.00-17.30 V 9.00-16.30 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Biržai",
+"lat": 56.19980509,
+"lon": 24.75524426,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje"
+},
+{
+"t": 0,
+"n": "ŠILALĖ",
+"a": "J. Basanavičiaus g. 16, Šilalė",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Šilalė",
+"lat": 55.48894521,
+"lon": 22.18903542,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "KONSTITUCIJOS",
+"a": "Konstitucijos pr. 20A, Vilnius",
+"av": "I-IV 9.00-17.30\nV 9.00-16.30\n",
+"r": "Vilnius",
+"lat": 54.69600947,
+"lon": 25.27383327,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "VISAGINAS",
+"a": "Veteranų g. 5, Visaginas",
+"av": "I-IV 9.00-17.00\nV 9.00-16.30\n",
+"r": "Visaginas",
+"lat": 55.59786842,
+"lon": 26.43344879,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "IGNALINA",
+"a": "Ateities g. 9, Ignalina",
+"av": "I-IV 9.00-17.00  V 9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Ignalina",
+"lat": 55.34328915,
+"lon": 26.16653681,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "ŠILUTĖ",
+"a": "Lietuvininkų g. 48A, Šilutė",
+"av": "I-V 9.00-17.00\n",
+"r": "Šilutė",
+"lat": 55.34286207,
+"lon": 21.4718771,
+"i": "Yra visą parą veikianti savitarnos erdvė "
+},
+{
+"t": 0,
+"n": "JONIŠKIS",
+"a": "Miesto a. 5, Joniškis",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 Grynųjų pinigų operacijos tik savitarnoje",
+"r": "Joniškis",
+"lat": 56.24053592,
+"lon": 23.61485481
+},
+{
+"t": 0,
+"n": "TELŠIAI",
+"a": "Iždinės g. 2A / Turgaus a. 15A, Telšiai",
+"av": "I-V 9.00-17.00\n",
+"r": "Telšiai",
+"lat": 55.98403892,
+"lon": 22.2516489,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "CENTRO KAC",
+"a": "Savanorių pr. 15A, Vilnius",
+"av": "I-IV 9.00-17.30\nV 9.00-16.30\n",
+"r": "Vilnius",
+"lat": 54.6761635,
+"lon": 25.25138855,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "JURBARKAS",
+"a": "S. Dariaus ir S. Girėno g. 77, Jurbarkas",
+"av": "I-V 9.00-17.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Jurbarkas",
+"lat": 55.07912881,
+"lon": 22.77753353,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje.\r\n\r\n"
+},
+{
+"t": 0,
+"n": "DRUSKININKAI",
+"a": "V. Kudirkos g. 33, Druskininkai",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Druskininkai",
+"lat": 54.55943457,
+"lon": 23.35427284,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "UKMERGĖ",
+"a": "Kauno g. 16, Ukmergė",
+"av": "I-IV 8.30-17.00\nV 8.30-16.00\n",
+"r": "Ukmergė",
+"lat": 55.24841438,
+"lon": 24.76185322,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ŠVENČIONYS",
+"a": "Lentupio g. 5A, Švenčionys",
+"av": "I-IV 9.00-17.30V 9.00-16.30 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Švenčionys",
+"lat": 55.13342108,
+"lon": 26.15999222,
+"i": "Yra visą parą veikianti savitarnos erdvė. "
+},
+{
+"t": 0,
+"n": "TAURAGĖ",
+"a": "S. Dariaus ir S. Girėno g. 5A, Tauragė",
+"av": "I-V 9.00-17.00\n",
+"r": "Tauragė",
+"lat": 55.25302531,
+"lon": 22.29709625,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ARKOS KAC",
+"a": "Karaliaus Mindaugo pr. 37, Kaunas",
+"av": "I-V 9.00-18.00\n",
+"r": "Kaunas",
+"lat": 54.89443198,
+"lon": 23.91374027,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "KAIŠIADORYS",
+"a": "Gedimino g. 57, Kaišiadorys",
+"av": "I-IV 9.00-17.00 V 9.00-16.00  grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Kaišiadorys",
+"lat": 54.8622587,
+"lon": 24.45762634,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "SAVAS KAC",
+"a": "Savanorių pr. 346, Kaunas",
+"av": "I-V 9.00-18.00\nVI 10.00-15.00\n",
+"r": "Kaunas",
+"lat": 54.92304811,
+"lon": 23.96249056,
+"i": "PC \"Savas\""
+},
+{
+"t": 0,
+"n": "UTENA",
+"a": "A. Baranausko g. 19, Utena",
+"av": "I-IV 9.00-17.30\nV 9.00-17.00\n",
+"r": "Utena",
+"lat": 55.500056,
+"lon": 25.602464,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "GARGŽDAI",
+"a": "Klaipėdos g. 17A, Gargždai",
+"av": "I-V 9.00-17.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Gargždai",
+"lat": 55.71069715,
+"lon": 21.39394283,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "JONAVA",
+"a": "J. Basanavičiaus g. 23, Jonava",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 Grynųjų pinigų operacijos tik savitarnoje",
+"r": "Jonava",
+"lat": 55.07554806,
+"lon": 24.28287506,
+"i": "Yra visą parą veikianti savitarnos erdvė\r\n"
+},
+{
+"t": 0,
+"n": "KĖDAINIAI",
+"a": "Josvainių g. 5, Kėdainiai",
+"av": "I-IV 9.00-17.00\nV 9.00-16.00\n",
+"r": "Kėdainiai",
+"lat": 55.28752303,
+"lon": 23.97603035,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "VARĖNA",
+"a": "Vytauto g. 18, Varėna",
+"av": "I-IV 9.00-17.00  V 9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Varėna",
+"lat": 54.21145179,
+"lon": 24.56918478,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "UOSTAMIESČIO",
+"a": "Taikos pr. 52C / Agluonos g. 1, Klaipėda",
+"av": "I-V 9.00-18.00\n",
+"r": "Klaipėda",
+"lat": 55.69255997,
+"lon": 21.15138531,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "KELMĖ",
+"a": "Birutės g. 4, Kelmė",
+"av": "I-IV 9.00-17.00  V 9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Kelmė",
+"lat": 55.63041872,
+"lon": 22.93893814,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "VILKAVIŠKIS",
+"a": "J. Basanavičiaus a. 9, Vilkaviškis",
+"av": "I-IV 9.00-17.00 V 9.00-16.00  grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Vilkaviškis",
+"lat": 54.65007611,
+"lon": 23.03240776,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "LAZDIJAI",
+"a": "M. Gustaičio g. 8/8, Lazdijai",
+"av": "I-IV 9.00-17.00 V  9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Lazdijai",
+"lat": 54.23295406,
+"lon": 23.51494789,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "KRETINGA",
+"a": "Rotušės a. 6, Kretinga",
+"av": "I-V 9.00- 17.00\n",
+"r": "Kretinga",
+"lat": 55.88879068,
+"lon": 21.24300957,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ZARASAI",
+"a": "Sėlių a. 20/2, Zarasai",
+"av": "I-V 9.00-17.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Zarasai",
+"lat": 55.73287352,
+"lon": 26.24541521,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "MARIJAMPOLĖ",
+"a": "J.Dailidės g. 6, Marijampolė",
+"av": "I-IV 9.00-18.00 V 9.00-17.00\n",
+"r": "Marijampolė",
+"lat": 54.55735762,
+"lon": 23.35232931,
+"i": "Yra visą parą veikianti savitarnos erdvė\r\n"
+},
+{
+"t": 0,
+"n": "PALANGA",
+"a": "Vytauto g. 61, Palanga",
+"av": "I-V 9.00-17.00\n",
+"r": "Palanga",
+"lat": 55.91915131,
+"lon": 21.06692791,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "AUKŠTAITIJOS",
+"a": "Laisvės a. 18, Panevėžys",
+"av": "I-V 8.30-18.00, VI 9.00-14.00\n",
+"r": "Panevėžys",
+"lat": 55.72646965,
+"lon": 24.3625474,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "KUPIŠKIS",
+"a": "Gedimino g. 34, Kupiškis",
+"av": "I-V 9.00-13.00 be registracijos I-V 14.00-17.00 tik iš anksto užsiregistravus\n",
+"r": "Kupiškis",
+"lat": 55.83932564,
+"lon": 24.97578621,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "MAŽEIKIAI",
+"a": "Žemaitijos g. 1A, Mažeikiai",
+"av": "I 9.00-18.00 II-V 9.00-17.00\n",
+"r": "Mažeikiai",
+"lat": 56.30905883,
+"lon": 22.3264247,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ELEKTRĖNAI",
+"a": "Rungos g. 12, Elektrėnai",
+"av": "I-IV 8.30-17.00\nV 8.30-16.00\n",
+"r": "Elektrėnai",
+"lat": 54.78408268,
+"lon": 24.65769768,
+"i": "Yra visą parą veikianti savitarnos erdvė. "
+},
+{
+"t": 0,
+"n": "ŠIAULIŲ KAC",
+"a": "Tilžės g. 157, Šiauliai",
+"av": "I-V 9.00-18.00  VI 9.00-15.00",
+"r": "Šiauliai",
+"lat": 55.93228736,
+"lon": 23.31637009,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "N. AKMENĖ",
+"a": "Respublikos g. 1A, N. Akmenė",
+"av": "I-V 9.00-13.00 be registracijos\nI-V 14.00-17.00 tik iš anksto užsiregistravus\n",
+"r": "N. Akmenė",
+"lat": 56.32145132,
+"lon": 22.8801012,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "MOLĖTAI",
+"a": "P. Cvirkos g. 16, Molėtai",
+"av": "I-IV 9.00-17.00  V 9.00-16.00 tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Molėtai",
+"lat": 55.23021005,
+"lon": 25.41699886,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "PAKRUOJIS",
+"a": "Vytauto Didžiojo g. 78, Pakruojis",
+"av": "I-V 9.00-17.00  tik iš anksto užsiregistravus. Pietų pertrauka 13.00-14.00\n",
+"r": "Pakruojis",
+"lat": 55.9798013,
+"lon": 23.8546443,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje"
+},
+{
+"t": 0,
+"n": "PLUNGĖ",
+"a": "S. Dariaus ir S. Girėno g. 5, Plungė",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 Grynųjų pinigų operacijos tik savitarnoje",
+"r": "Plungė",
+"lat": 55.91352965,
+"lon": 21.8468821
+},
+{
+"t": 0,
+"n": "ROTUŠĖS KAC",
+"a": "Vokiečių g. 26, Vilnius",
+"av": "I-IV 9.00-18.00V 9.00-17.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Vilnius",
+"lat": 54.67991017,
+"lon": 25.28267384,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "PASVALYS",
+"a": "Vilniaus g. 11, Pasvalys",
+"av": "I-IV 9.00-17.30 V 9.00-16.30 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Pasvalys",
+"lat": 56.06032057,
+"lon": 24.4026947,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ŠIAULIŲ PKFC",
+"a": "Tilžės g. 157, Šiauliai",
+"av": "I-V 9.00-18.00; VI 9.00-15.00",
+"r": "Šiauliai",
+"lat": 55.93228736,
+"lon": 23.31637009,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "AKROPOLIO KAC",
+"a": "Ozo g. 25, Vilnius",
+"av": "I-V 10.00-19.00\nVI 10.00-18.00\nVII 10.00-16.00\n",
+"r": "Vilnius",
+"lat": 54.71061487,
+"lon": 25.26095867,
+"i": "PPC \"Akropolis\". Yra PPC darbo metu veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "PRIENAI",
+"a": "Vytauto g. 33, Prienai",
+"av": "I-V 9.00-13.00 be registracijos I-IV 13.30-17.00 V 13.30-16.00 tik iš anksto užsiregistravus\n",
+"r": "Prienai",
+"lat": 54.6351757,
+"lon": 23.94582868,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "RADVILIŠKIS",
+"a": "S. Dariaus ir S. Girėno g. 3, Radviliškis",
+"av": "I-V 9.00-17.00\n",
+"r": "Radviliškis",
+"lat": 55.80832373,
+"lon": 23.53807926,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "FABIJONIŠKIŲ",
+"a": "Ateities g. 91, Vilnius",
+"av": "I-V 10.00-18.00\n",
+"r": "Vilnius",
+"lat": 54.73170777,
+"lon": 25.2459383,
+"i": "PC \"Mandarinas\""
+},
+{
+"t": 0,
+"n": "KAZLŲ RŪDOS SC",
+"a": "M. Valančiaus g. 7, Kazlų Rūda, PC Maxima",
+"av": "I, III, V 9.00 - 17.00, pietų pertrauka 13.00-14.00",
+"r": "Kazlų Rūda",
+"lat": 54.75375559,
+"lon": 23.49460601
+},
+{
+"t": 0,
+"n": "KALVARIJOS SC",
+"a": "Laisvės g.2, Kalvarija",
+"av": "I-V 9.00-17.00, pietų pertrauka 13.00-14.00",
+"r": "Kalvarija",
+"lat": 54.41379821,
+"lon": 23.22614908
+},
+{
+"t": 0,
+"n": "RASEINIAI",
+"a": "Dominikonų g. 2A, Raseiniai",
+"av": "I-IV 9.00-17.00 V 9.00-16.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Raseiniai",
+"lat": 55.38070744,
+"lon": 23.11583519,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "SKUODAS",
+"a": "Vilniaus g. 34B, Skuodas",
+"av": "I-V 9.00-13.00 be registracijos\nI-V 14.00-17.00 tik iš anksto užsiregistravus\n",
+"r": "Skuodas",
+"lat": 56.27101394,
+"lon": 21.54103518,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje."
+},
+{
+"t": 0,
+"n": "PRIVAČIOJI VLN",
+"a": "Konstitucijos pr. 20A, Vilnius",
+"av": "I-IV 9.00-17.30; V 9.00-16.30 ",
+"r": "Vilnius",
+"lat": 54.69600947,
+"lon": 25.27383327,
+"i": "Yra visą parą veikianti savitarnos erdvė"
+},
+{
+"t": 0,
+"n": "ŠALČININKAI",
+"a": "Mokyklos g. 17, Šalčininkai",
+"av": "I-IV 8.00-16.30V 8.00-15.30 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Šalčininkai",
+"lat": 54.30938827,
+"lon": 25.38348198,
+"i": "Yra visą parą veikianti savitarnos erdvė. Grynųjų pinigų operacijos tik savitarnos erdvėje"
+},
+{
+"t": 0,
+"n": "ŽIRMŪNŲ KAC",
+"a": "P. Lukšio g. 23, Vilnius",
+"av": "I-IV 9.00-18.00\nV 9.00-17.00\n",
+"r": "Vilnius",
+"lat": 54.71215197,
+"lon": 25.29700756,
+"i": "Yra visą parą veikianti savitarnos erdvė. "
+},
+{
+"t": 0,
+"n": "PANORAMOS KAC",
+"a": "Saltoniškių g. 9, Vilnius",
+"av": "I-V 10.00-19.00VI 10.00-18.00 grynųjų pinigų operacijos tik savitarnoje\n",
+"r": "Vilnius",
+"lat": 54.69936993,
+"lon": 25.25804043,
+"i": "Yra prekybos centro darbo metu veikianti savitarnos erdvė"
+},
+{
+"t": 1,
+"n": "AB \"Orlen Lietuva\"",
+"a": "Juodeikių km., Mažeikių raj. Sav., Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.38193349,
+"lon": 22.20062255
+},
+{
+"t": 1,
+"n": "Akademinė klinika",
+"a": "Eivenių g. 2, Kaunas",
+"r": "Kaunas",
+"lat": 54.91831573,
+"lon": 23.92214477
+},
+{
+"t": 1,
+"n": "Antakalnio g. 102",
+"a": "Antakalnio g. 102, Vilnius",
+"r": "Vilnius",
+"lat": 54.71539334,
+"lon": 25.31581521
+},
+{
+"t": 2,
+"n": "Anykščių KAC",
+"a": "J. Biliūno g. 11, Anykščiai",
+"r": "Anykščiai",
+"lat": 55.52563288,
+"lon": 25.10802045
+},
+{
+"t": 2,
+"n": "Anykščių KAC",
+"a": "J. Biliūno g. 11, Anykščiai",
+"r": "Anykščiai",
+"lat": 55.5256563,
+"lon": 25.1079937
+},
+{
+"t": 2,
+"n": "Arkos KAC",
+"a": " Karaliaus Mindaugo g. 37, Kaunas",
+"r": "Kaunas",
+"lat": 54.89443198,
+"lon": 23.91374027
+},
+{
+"t": 2,
+"n": "Arkos KAC",
+"a": "Karaliaus Mindaugo g. 37, Kaunas",
+"r": "Kaunas",
+"lat": 54.89443198,
+"lon": 23.91374027
+},
+{
+"t": 1,
+"n": "Autobusų stotis",
+"a": "Sodų g. 22, Vilnius",
+"r": "Vilnius",
+"lat": 54.67084065,
+"lon": 25.28192281
+},
+{
+"t": 1,
+"n": "Biliardo k. Fuksas",
+"a": "Gedimino pr. 28, Vilnius",
+"r": "Vilnius",
+"lat": 54.68770635,
+"lon": 25.2754721
+},
+{
+"t": 2,
+"n": "Biržų KAC",
+"a": "Vytauto g. 22, Biržai",
+"r": "Biržai",
+"lat": 56.1998447,
+"lon": 24.7554612
+},
+{
+"t": 2,
+"n": "Biržų KAC",
+"a": "Vytauto g. 22, Biržai",
+"r": "Biržai",
+"lat": 56.19957978,
+"lon": 24.75565329
+},
+{
+"t": 2,
+"n": "Dainavos KAC",
+"a": "S.Dariaus ir S.Girėno g. 13, Alytus",
+"r": "Alytus",
+"lat": 54.39566649,
+"lon": 24.04919028
+},
+{
+"t": 2,
+"n": "Druskininkų KAC",
+"a": "V. Kudirkos g. 33, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.01538301,
+"lon": 23.9760518
+},
+{
+"t": 2,
+"n": "Druskininkų KAC",
+"a": "V. Kudirkos g. 33, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.01538301,
+"lon": 23.9760518
+},
+{
+"t": 1,
+"n": "Elektros tinklai",
+"a": "Tilžės g. 68, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.9190954,
+"lon": 23.28999479
+},
+{
+"t": 2,
+"n": "Elektrėnų KAC",
+"a": "Rungos g. 12, Elektrėnai",
+"r": "Elektrėnai",
+"lat": 54.7840857,
+"lon": 24.6581013
+},
+{
+"t": 2,
+"n": "Elektrėnų KAC",
+"a": "Rungos g. 12, Elektrėnai",
+"r": "Elektrėnai",
+"lat": 54.7840857,
+"lon": 24.6581013
+},
+{
+"t": 2,
+"n": "Fabijoniškių KAC",
+"a": "Ateities g. 91, Vilnius",
+"r": "Vilnius",
+"lat": 54.7316497,
+"lon": 25.2456969
+},
+{
+"t": 2,
+"n": "Fabijoniškių KAC",
+"a": "Ateities g. 91, Vilnius",
+"r": "Vilnius",
+"lat": 54.7316497,
+"lon": 25.2456969
+},
+{
+"t": 1,
+"n": "Foto centras",
+"a": "Laisvės al. 110, Kaunas",
+"r": "Kaunas",
+"lat": 54.8980079,
+"lon": 23.9034336
+},
+{
+"t": 2,
+"n": "Gargždų KAC",
+"a": "Klaipėdos g. 17A, Gargždai",
+"r": "Gargždai",
+"lat": 55.7101048,
+"lon": 21.39182925
+},
+{
+"t": 2,
+"n": "Gargždų KAC",
+"a": "Klaipėdos g. 17A, Gargždai",
+"r": "Gargždai",
+"lat": 55.7101048,
+"lon": 21.39182925
+},
+{
+"t": 2,
+"n": "Gariūnų verslo c.",
+"a": "Gariūnų g. 70, Vilnius",
+"r": "Vilnius",
+"lat": 54.65919174,
+"lon": 25.1554352
+},
+{
+"t": 1,
+"n": "Geležinkelio stotis",
+"a": "Geležinkelio g. 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.67058008,
+"lon": 25.28479815
+},
+{
+"t": 2,
+"n": "Halės turgus",
+"a": "Pylimo g. 58, Vilnius",
+"r": "Vilnius",
+"lat": 54.6736196,
+"lon": 25.28578251
+},
+{
+"t": 2,
+"n": "Ignalinos KAC",
+"a": "Ateities g. 9, Ignalina",
+"r": "Ignalina",
+"lat": 55.5978328,
+"lon": 26.4338251
+},
+{
+"t": 2,
+"n": "Ignalinos KAC",
+"a": "Ateities g. 9, Ignalina",
+"r": "Ignalina",
+"lat": 55.3434594,
+"lon": 26.1671775
+},
+{
+"t": 2,
+"n": "Jonavos KAC",
+"a": "J. Basanavičiaus g. 23, Jonava",
+"r": "Jonava",
+"lat": 54.711781,
+"lon": 25.29803
+},
+{
+"t": 2,
+"n": "Jonavos KAC",
+"a": "J. Basanavičiaus g. 23, Jonava",
+"r": "Jonava",
+"lat": 55.07531075,
+"lon": 24.28232253
+},
+{
+"t": 2,
+"n": "Joniškio KAC",
+"a": "Miesto a. 5, Joniškis",
+"r": "Joniškis",
+"lat": 56.24037494,
+"lon": 23.61523032
+},
+{
+"t": 2,
+"n": "Joniškio KAC",
+"a": "Miesto a. 5, Joniškis",
+"r": "Joniškis",
+"lat": 56.24069689,
+"lon": 23.61535907
+},
+{
+"t": 2,
+"n": "Jurbarko KAC",
+"a": "S.Dariaus ir S.Girėno g. 77, Jurbarkas",
+"r": "Jurbarkas",
+"lat": 55.07858756,
+"lon": 22.77475073
+},
+{
+"t": 2,
+"n": "Jurbarko KAC",
+"a": "S.Dariaus ir S.Girėno g. 77, Jurbarkas",
+"r": "Jurbarkas",
+"lat": 55.07858756,
+"lon": 22.77475073
+},
+{
+"t": 1,
+"n": "K-Centras",
+"a": "Naujojo sodo g.1A, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.71074322,
+"lon": 21.12933457
+},
+{
+"t": 2,
+"n": "Kaišiadorių KAC",
+"a": "Gedimino g. 57, Kaišiadorys",
+"r": "Kaišiadorys",
+"lat": 54.8624346,
+"lon": 24.4575389
+},
+{
+"t": 2,
+"n": "Kaišiadorių KAC",
+"a": "Gedimino g. 57, Kaišiadorys",
+"r": "Kaišiadorys",
+"lat": 54.86264154,
+"lon": 24.45831299
+},
+{
+"t": 2,
+"n": "Kalvarijos KAC",
+"a": "Laisvės g. 2, Kalvarija",
+"r": "Kalvarija",
+"lat": 54.41402,
+"lon": 23.226095
+},
+{
+"t": 2,
+"n": "Kalvarijos KAC",
+"a": "Laisvės g. 2, Kalvarija",
+"r": "Kalvarija",
+"lat": 54.41387314,
+"lon": 23.22622418
+},
+{
+"t": 2,
+"n": "Kazlų Rūdos SC",
+"a": "M. Valančiaus g. 7, Kazlų Rūda",
+"r": "Kazlų Rūda",
+"lat": 54.75153061,
+"lon": 23.49367132
+},
+{
+"t": 2,
+"n": "Kazlų Rūdos SC",
+"a": "M. Valančiaus g. 7, Kazlų Rūda",
+"r": "Kazlų Rūda",
+"lat": 54.75163803,
+"lon": 23.4934473
+},
+{
+"t": 2,
+"n": "Kelmės KAC",
+"a": "Birutės g. 4, Kelmė",
+"r": "Kelmė",
+"lat": 55.6306761,
+"lon": 22.93902933
+},
+{
+"t": 2,
+"n": "Kelmės KAC",
+"a": "Birutės g. 4, Kelmė",
+"r": "Kelmė",
+"lat": 55.6306761,
+"lon": 22.9390293
+},
+{
+"t": 2,
+"n": "Kretingos KAC",
+"a": "Rotušės a 6, Kretinga",
+"r": "Kretinga",
+"lat": 55.88879067,
+"lon": 21.24304175
+},
+{
+"t": 2,
+"n": "Kretingos KAC",
+"a": "Rotušės a. 6, Kretinga",
+"r": "Kretinga",
+"lat": 55.88887792,
+"lon": 21.24304712
+},
+{
+"t": 2,
+"n": "Kupiškio KAC",
+"a": "Gedimino g. 34, Kupiškis",
+"r": "Kupiškis",
+"lat": 55.8392646,
+"lon": 24.9761056
+},
+{
+"t": 2,
+"n": "Kupiškio KAC",
+"a": "Gedimino g. 34, Kupiškis",
+"r": "Kupiškis",
+"lat": 55.83880753,
+"lon": 24.97614026
+},
+{
+"t": 2,
+"n": "Kėdainių KAC",
+"a": "Josvainių g. 5, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.28747415,
+"lon": 23.97650242
+},
+{
+"t": 2,
+"n": "Kėdainių KAC",
+"a": "Josvainių g. 5, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.28745582,
+"lon": 23.97613764
+},
+{
+"t": 1,
+"n": "LR Seimo rūmai",
+"a": "Gedimino pr. 53, Vilnius",
+"r": "Vilnius",
+"lat": 54.69119772,
+"lon": 25.26132345
+},
+{
+"t": 2,
+"n": "Lazdijų KAC",
+"a": "Seinų g. 8, Lazdijai",
+"r": "Lazdijai",
+"lat": 54.89035713,
+"lon": 23.91893148
+},
+{
+"t": 1,
+"n": "Ligoninė",
+"a": "V. Kudirkos g. 99, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.942752,
+"lon": 23.3028558
+},
+{
+"t": 2,
+"n": "Lyros KAC",
+"a": "Aido g. 8, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.9081657,
+"lon": 23.2600736
+},
+{
+"t": 2,
+"n": "Lyros KAC",
+"a": "Aido g. 8, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.943161,
+"lon": 23.3275409
+},
+{
+"t": 2,
+"n": "Lyros KAC",
+"a": "Aido g. 8, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.9081657,
+"lon": 23.2600736
+},
+{
+"t": 2,
+"n": "Mažeikių KAC",
+"a": "Žemaitijos g.1A, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.3088881,
+"lon": 22.3264543
+},
+{
+"t": 2,
+"n": "Mažeikių KAC",
+"a": "Žemaitijos g. 1A, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.30906681,
+"lon": 22.3263216
+},
+{
+"t": 2,
+"n": "Molo KAC",
+"a": "K. Baršausko g. 66A, Kaunas",
+"r": "Kaunas",
+"lat": 54.89887168,
+"lon": 23.96538734
+},
+{
+"t": 2,
+"n": "Molo KAC",
+"a": "K. Baršausko g. 66A, Kaunas",
+"r": "Kaunas",
+"lat": 54.89951328,
+"lon": 23.9669323
+},
+{
+"t": 2,
+"n": "Molėtų KAC",
+"a": "P. Cvirkos g. 16, Molėtai",
+"r": "Molėtai",
+"lat": 55.2302598,
+"lon": 25.4171869
+},
+{
+"t": 2,
+"n": "Molėtų KAC",
+"a": "P. Cvirkos g. 16, Molėtai",
+"r": "Molėtai",
+"lat": 55.23017334,
+"lon": 25.41704178
+},
+{
+"t": 2,
+"n": "N. Akmenės KAC",
+"a": "Respublikos g. 1, N. Akmenė",
+"r": "N. Akmenė",
+"lat": 56.32134125,
+"lon": 22.87990272
+},
+{
+"t": 2,
+"n": "N. Akmenės KAC",
+"a": "Respublikos g. 1A, N. Akmenė",
+"r": "N. Akmenė",
+"lat": 56.32134125,
+"lon": 22.87990272
+},
+{
+"t": 1,
+"n": "Naujasis turgus",
+"a": "Taikos pr. 80, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.98417096,
+"lon": 22.25375175
+},
+{
+"t": 2,
+"n": "Nidos SC",
+"a": "Naglių g. 31a, Nida",
+"r": "Nida",
+"lat": 55.30512707,
+"lon": 21.00671232
+},
+{
+"t": 1,
+"n": "Oro uostas",
+"a": "Rodūnės kelias 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.6430459,
+"lon": 25.279819
+},
+{
+"t": 1,
+"n": "PC \"Angis\"",
+"a": "J.Basanavičiaus g. 1, Tytuvėnai",
+"r": "Tytuvėnai",
+"lat": 55.59694702,
+"lon": 23.19625854
+},
+{
+"t": 2,
+"n": "PC \"Banginis\"",
+"a": "Šilutės pl. 35A, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.691959,
+"lon": 21.1816988
+},
+{
+"t": 1,
+"n": "PC \"Eifelis\"",
+"a": "Senkelio g. 14A, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.29987236,
+"lon": 22.35408783
+},
+{
+"t": 1,
+"n": "PC \"Indritus\"",
+"a": "Laisvės a. 21, Šeduva",
+"r": "Šeduva",
+"lat": 55.91443759,
+"lon": 23.25930119
+},
+{
+"t": 2,
+"n": "PC \"Parkas Outlet\"",
+"a": "Lakūnų g. 24, Vilnius",
+"r": "Vilnius",
+"lat": 54.71421358,
+"lon": 25.2969566
+},
+{
+"t": 1,
+"n": "PC \"Pivonija\"",
+"a": "Vilniaus g. 90A, Ukmergė",
+"r": "Ukmergė",
+"lat": 55.24052442,
+"lon": 24.77597237
+},
+{
+"t": 1,
+"n": "PC \"Šilas\"",
+"a": "A. Juozapavičiaus pr. 33, Kaunas",
+"r": "Kaunas",
+"lat": 54.87028529,
+"lon": 23.93923044
+},
+{
+"t": 1,
+"n": "PC \"Šilas\"",
+"a": "M.Gimbutienės g. 3, Kaunas",
+"r": "Kaunas",
+"lat": 54.89213423,
+"lon": 24.00491238
+},
+{
+"t": 1,
+"n": "PC AIBĖ",
+"a": "J.Basanavičiaus g. 3, Šilalė",
+"r": "Šilalė",
+"lat": 55.4913401,
+"lon": 22.18274832
+},
+{
+"t": 1,
+"n": "PC ARENA",
+"a": "Taikos pr. 64/Baltijos pr. 24b, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.68697202,
+"lon": 21.15644932
+},
+{
+"t": 2,
+"n": "PC Akropolis",
+"a": "Aido g. 8, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.90723429,
+"lon": 23.26103722
+},
+{
+"t": 2,
+"n": "PC Akropolis",
+"a": "Ozo g.25, Vilnius",
+"r": "Vilnius",
+"lat": 54.7104098,
+"lon": 25.26340484
+},
+{
+"t": 2,
+"n": "PC Akropolis",
+"a": "Karaliaus Mindaugo pr. 49, Kaunas",
+"r": "Kaunas",
+"lat": 54.89148584,
+"lon": 23.9185667
+},
+{
+"t": 2,
+"n": "PC Akropolis",
+"a": "Ozo g. 25, Vilnius",
+"r": "Vilnius",
+"lat": 54.71109212,
+"lon": 25.25961757
+},
+{
+"t": 2,
+"n": "PC Akropolis",
+"a": "Taikos pr. 61, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.69360006,
+"lon": 21.15683556
+},
+{
+"t": 1,
+"n": "PC Arena",
+"a": "Gegužių g. 30, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.90654804,
+"lon": 23.25794935
+},
+{
+"t": 2,
+"n": "PC BIG",
+"a": "Taikos pr. 139, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6654216,
+"lon": 21.1767308
+},
+{
+"t": 2,
+"n": "PC Babilonas",
+"a": "Savitiškio g. 61, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72878966,
+"lon": 24.31411743
+},
+{
+"t": 2,
+"n": "PC Babilonas",
+"a": "Savitiškio g. 61, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72878966,
+"lon": 24.31411743
+},
+{
+"t": 2,
+"n": "PC Babilonas II",
+"a": "Klaipėdos g. 143A, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72929389,
+"lon": 24.30952549
+},
+{
+"t": 1,
+"n": "PC Bazė",
+"a": "Miesto a. 8, Žagarė",
+"r": "Žagarė",
+"lat": 56.35992514,
+"lon": 23.2559967
+},
+{
+"t": 2,
+"n": "PC Bruklinas",
+"a": "Pramonės g. 6/14, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.914419,
+"lon": 23.303329
+},
+{
+"t": 2,
+"n": "PC Centro Pasažas",
+"a": "Gedimino pr. 16, Vilnius",
+"r": "Vilnius",
+"lat": 54.6865259,
+"lon": 25.2797109
+},
+{
+"t": 1,
+"n": "PC Cipollino",
+"a": "Debreceno g. 61, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6793629,
+"lon": 21.16740345
+},
+{
+"t": 2,
+"n": "PC DomusPro",
+"a": "Ukmergės g. 308-1, Vilnius",
+"r": "Vilnius",
+"lat": 54.7398005,
+"lon": 25.2252906
+},
+{
+"t": 1,
+"n": "PC Europa",
+"a": "Konstitucijos pr. 7, Vilnius",
+"r": "Vilnius",
+"lat": 54.69581106,
+"lon": 25.27806044
+},
+{
+"t": 1,
+"n": "PC Geras",
+"a": "Draugystės g. 13, Elektrėnai",
+"r": "Elektrėnai",
+"lat": 54.7852746,
+"lon": 24.6677693
+},
+{
+"t": 2,
+"n": "PC Hyper RIMI",
+"a": "Žirmūnų g. 64, Vilnius",
+"r": "Vilnius",
+"lat": 54.7120353,
+"lon": 25.30083979
+},
+{
+"t": 1,
+"n": "PC Hyper RIMI",
+"a": "Kedrų g. 4, Vilnius",
+"r": "Vilnius",
+"lat": 54.67549311,
+"lon": 25.25676369
+},
+{
+"t": 1,
+"n": "PC Hyper RIMI",
+"a": "Žirmūnų g. 64, Vilnius",
+"r": "Vilnius",
+"lat": 54.71205281,
+"lon": 25.30333757
+},
+{
+"t": 2,
+"n": "PC Hyper Rimi",
+"a": "Kedrų g. 4, Vilnius",
+"r": "Vilnius",
+"lat": 54.67559082,
+"lon": 25.25741547
+},
+{
+"t": 1,
+"n": "PC IKEA",
+"a": "Vikingų g. 1, Vilnius",
+"r": "Vilnius",
+"lat": 54.6509986,
+"lon": 25.2801241
+},
+{
+"t": 2,
+"n": "PC IKI",
+"a": "Žemaičių pl. 23, Kaunas",
+"r": "Kaunas",
+"lat": 54.928322,
+"lon": 23.887818
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vytauto g. 36, Biržai",
+"r": "Biržai",
+"lat": 56.19612836,
+"lon": 24.75502968
+},
+{
+"t": 2,
+"n": "PC IKI",
+"a": "Antakalnio g. 42, Vilnius",
+"r": "Vilnius",
+"lat": 54.7033429,
+"lon": 25.309623
+},
+{
+"t": 2,
+"n": "PC IKI",
+"a": "Jaunimo g. 24, Alytus",
+"r": "Alytus",
+"lat": 54.3913987,
+"lon": 24.0219898
+},
+{
+"t": 2,
+"n": "PC IKI",
+"a": "Šeškinės g. 32, Vilnius",
+"r": "Vilnius",
+"lat": 54.7153931,
+"lon": 25.2454461
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Šeškinės g. 32, Vilnius",
+"r": "Vilnius",
+"lat": 54.71574461,
+"lon": 25.24522483
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "J. Basanavičiaus g. 80, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.2796336,
+"lon": 23.96313179
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Masčio g. 1, Telšiai",
+"r": "Telšiai",
+"lat": 55.97747221,
+"lon": 22.26435184
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "M.K.Čiurlionio g. 107, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.01138141,
+"lon": 23.99058938
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Šiaulių g. 37, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.56709837,
+"lon": 23.35043191
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Didlaukio g. 80A, Vilnius",
+"r": "Vilnius",
+"lat": 54.7288686,
+"lon": 25.269291
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Taikos pr. 109, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.67552755,
+"lon": 21.16958141
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Tilto g. 2, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.28880603,
+"lon": 23.98019314
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Partizanų g. 134, Kaunas",
+"r": "Kaunas",
+"lat": 54.930127,
+"lon": 23.9865019
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Kovo 11-osios g. 22, Kaunas",
+"r": "Kaunas",
+"lat": 54.90592875,
+"lon": 23.97469997
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Čekiškės g. 98, Vilkija",
+"r": "Vilkija",
+"lat": 55.04393388,
+"lon": 23.58361244
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Bajorų kelias 4, Vilnius",
+"r": "Vilnius",
+"lat": 54.7546249,
+"lon": 25.262011
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Gegučių g. 13, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.28301387,
+"lon": 23.96234035
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Kniaudiškių g. 6, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.7273517,
+"lon": 24.33366537
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Lukšio g. 60, Kaunas",
+"r": "Kaunas",
+"lat": 54.92642,
+"lon": 23.94830999
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Sukilėlių pr. 84, Kaunas",
+"r": "Kaunas",
+"lat": 54.92669798,
+"lon": 23.92972469
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Didžioji g. 98, Vaišvydava",
+"r": "Vaišvydava",
+"lat": 54.85371171,
+"lon": 24.01401043
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Jaunimo g. 24, Alytus",
+"r": "Alytus",
+"lat": 54.39591321,
+"lon": 24.04942632
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "M. Mažvydo al. 7/11, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.7144872,
+"lon": 21.13200299
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Nidos g.5A, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6786867,
+"lon": 21.1564673
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Žirmūnų g. 106, Vilnius",
+"r": "Vilnius",
+"lat": 54.726101,
+"lon": 25.2986571
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Plungės g. 4, Telšiai",
+"r": "Telšiai",
+"lat": 55.980764,
+"lon": 22.2358083
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Gedimino g. 116, Kaišiadorys",
+"r": "Kaišiadorys",
+"lat": 54.8553199,
+"lon": 24.43993729
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Jonavos g. 3, Kaunas",
+"r": "Kaunas",
+"lat": 54.90100278,
+"lon": 23.89155193
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Butkų Juzės g. 9, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.7192308,
+"lon": 21.13960505
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vytauto g. 48a, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.54652975,
+"lon": 23.34669828
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Juozapavičiaus g.13, Alytus",
+"r": "Alytus",
+"lat": 54.91966922,
+"lon": 23.87985706
+},
+{
+"t": 2,
+"n": "PC IKI",
+"a": "S.Dariaus ir S.Girėno g. 13, Alytus",
+"r": "Alytus",
+"lat": 54.39566649,
+"lon": 24.04919028
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Kovo 11-osios g. 39B, Grigiškės",
+"r": "Grigiškės",
+"lat": 54.66916549,
+"lon": 25.09614229
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Taikos pr. 115, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.67201853,
+"lon": 21.17159843
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "J.Jasinskio g. 16, Vilnius",
+"r": "Vilnius",
+"lat": 54.68789861,
+"lon": 25.26003599
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Sėlių g. 54, Vilnius",
+"r": "Vilnius",
+"lat": 54.69822914,
+"lon": 25.24775147
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vilniaus g. 128, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.9301879,
+"lon": 23.31747859
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Sedos g. 18, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.30344313,
+"lon": 22.34124391
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Taikos pr. 28, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6981713,
+"lon": 21.14698648
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Žirmūnų g. 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.69722473,
+"lon": 25.2990675
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vilniaus g. 220, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.93827688,
+"lon": 23.30393314
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "S. Dariaus ir S. Girėno g.24, Birštonas",
+"r": "Birštonas",
+"lat": 54.6054952,
+"lon": 24.02883768
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vingio g. 14, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6723553,
+"lon": 21.1912371
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "S.Dariaus ir S.Girėno g. 11, Šilutė",
+"r": "Šilutė",
+"lat": 55.35037792,
+"lon": 21.46325111
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Taikos g. 80A, Visaginas",
+"r": "Visaginas",
+"lat": 55.59457068,
+"lon": 26.45121574
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Baltijos g. 59, Kaunas",
+"r": "Kaunas",
+"lat": 54.91966922,
+"lon": 23.87985706
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vilkaviškio g. 72, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.56336617,
+"lon": 23.33296537
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Raudondvario pl. 166, Kaunas",
+"r": "Kaunas",
+"lat": 54.91429817,
+"lon": 23.84114742
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Savanorių pr. 111, Kaunas",
+"r": "Kaunas",
+"lat": 54.90454704,
+"lon": 23.91627073
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Molėtų pl. 13, Didžioji Riešė",
+"r": "Didžioji Riešė",
+"lat": 54.78177609,
+"lon": 25.2733815
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Gardino g. 2, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.91349958,
+"lon": 23.273592
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Architektų g. 43/31, Vilnius",
+"r": "Vilnius",
+"lat": 54.67435207,
+"lon": 25.20152091
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Naujoji g. 2b, Alytus",
+"r": "Alytus",
+"lat": 54.39595694,
+"lon": 24.03819859
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Centrinė g. 56, Ramučiai",
+"r": "Ramučiai",
+"lat": 54.95388897,
+"lon": 24.03160572
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "J. Janonio al. 21, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.71874736,
+"lon": 21.11960649
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Ukmergės g. 18, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.7280072,
+"lon": 24.36591309
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Jeruzalės g. 17, Vilnius",
+"r": "Vilnius",
+"lat": 54.7431369,
+"lon": 25.27875189
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Vilniaus g. 95, Molėtai",
+"r": "Molėtai",
+"lat": 55.2274566,
+"lon": 25.4083728
+},
+{
+"t": 1,
+"n": "PC IKI",
+"a": "Fabijoniškių g. 2a, Vilnius",
+"r": "Vilnius",
+"lat": 54.72217891,
+"lon": 25.24458647
+},
+{
+"t": 1,
+"n": "PC KUBAS",
+"a": "Vilniaus g. 44, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.92428899,
+"lon": 23.3391239
+},
+{
+"t": 2,
+"n": "PC MADA",
+"a": "Viršuliškių g. 42, Vilnius",
+"r": "Vilnius",
+"lat": 54.70807356,
+"lon": 25.2277422
+},
+{
+"t": 2,
+"n": "PC MADA",
+"a": "Viršuliškių g. 42, Vilnius",
+"r": "Vilnius",
+"lat": 54.70780702,
+"lon": 25.22759199
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Santaikos g. 34, Alytus",
+"r": "Alytus",
+"lat": 54.3872304,
+"lon": 24.02747629
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Respublikos g. 71, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.73664286,
+"lon": 24.35598135
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Gabijos g. 30, Vilnius",
+"r": "Vilnius",
+"lat": 55.2524505,
+"lon": 22.29764342
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Jucio g. 5/Končiaus g. 1, Plungė",
+"r": "Plungė",
+"lat": 55.6786249,
+"lon": 21.15683556
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Rūdės g. 14, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.92800001,
+"lon": 23.31830978
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "V. Kudirkos g. 66, Šakiai",
+"r": "Šakiai",
+"lat": 54.9542875,
+"lon": 23.0395309
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Sniadeckio g. 11, Šalčininkai",
+"r": "Šalčininkai",
+"lat": 54.31299346,
+"lon": 25.38408279
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Šaltkalvių g. 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.6613223,
+"lon": 25.27286768
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Mindaugo g. 11, Vilnius",
+"r": "Vilnius",
+"lat": 54.6780949,
+"lon": 25.27271589
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Veisiejų g. 31, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.01215686,
+"lon": 23.98789644
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Architektų g. 152, Vilnius",
+"r": "Vilnius",
+"lat": 54.6831935,
+"lon": 25.2127754
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Ramygalos g. 94-1a, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.71808262,
+"lon": 24.36482191
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Laisvės g. 56, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 55.37937865,
+"lon": 23.11876416
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Aušros g. 78, Utena",
+"r": "Utena",
+"lat": 55.50724965,
+"lon": 25.59614897
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Sporto g. 16, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.74443008,
+"lon": 25.27883291
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Vilniaus g. 93, Raseiniai",
+"r": "Raseiniai",
+"lat": 55.37960418,
+"lon": 23.11408639
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Respublikos g. 111, Rokiškis",
+"r": "Rokiškis",
+"lat": 55.95288655,
+"lon": 25.59015369
+},
+{
+"t": 2,
+"n": "PC MAXIMA",
+"a": "Pergalės g. 42a, N. Vilnia",
+"r": "N. Vilnia",
+"lat": 54.681661,
+"lon": 25.415614
+},
+{
+"t": 2,
+"n": "PC MAXIMA",
+"a": "Rudondvario pl. 284A, Kaunas",
+"r": "Kaunas",
+"lat": 54.9214703,
+"lon": 23.8208485
+},
+{
+"t": 2,
+"n": "PC MAXIMA",
+"a": "Šiaurės pr. 8D, Kaunas",
+"r": "Kaunas",
+"lat": 54.9308406,
+"lon": 23.932482
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Vydūno g. 27, Vilnius",
+"r": "Vilnius",
+"lat": 54.70678115,
+"lon": 25.17646372
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Naujoji g. 90, Alytus",
+"r": "Alytus",
+"lat": 54.4089113,
+"lon": 24.0174368
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Smėlynės g. 112, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.74498967,
+"lon": 24.37334061
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Algirdo g. 1A, Jurbarkas",
+"r": "Jurbarkas",
+"lat": 55.0856509,
+"lon": 22.76995299
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Geležinkelio g. 11a, Lentvaris",
+"r": "Lentvaris",
+"lat": 54.6444953,
+"lon": 25.04819512
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Savanorių g. 5, Varėna",
+"r": "Varėna",
+"lat": 54.21026595,
+"lon": 24.57661986
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Liepkalnio g. 112, Vilnius",
+"r": "Vilnius",
+"lat": 54.6531542,
+"lon": 25.30419889
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Statybininkų g. 50, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.731774,
+"lon": 24.3291807
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Upytės g. 19, Joniškis",
+"r": "Joniškis",
+"lat": 56.23986816,
+"lon": 23.62006903
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Parko g. 23, N. Vilnia",
+"r": "N. Vilnia",
+"lat": 54.68521699,
+"lon": 25.422344
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "I. Šeiniaus g. 19, Širvintos",
+"r": "Širvintos",
+"lat": 55.0383441,
+"lon": 24.95508949
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Švenčionių g. 44, Nemenčinė",
+"r": "Nemenčinė",
+"lat": 54.8484962,
+"lon": 25.4668315
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Priestočio g. 6, Švenčionėliai",
+"r": "Švenčionėliai",
+"lat": 55.16416173,
+"lon": 25.99515438
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Plytų g. 9, Palanga",
+"r": "Palanga",
+"lat": 55.9159167,
+"lon": 21.07072592
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": " Taurupio g. 15A, Ariogala",
+"r": "Ariogala",
+"lat": 55.2681657,
+"lon": 23.47108019
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Šarkuvos g. 1A, Kaunas",
+"r": "Kaunas",
+"lat": 54.9332906,
+"lon": 23.8865673
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Šilutės pl. 68, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.676542,
+"lon": 21.1888088
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Taikos pr. 12A, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.70393901,
+"lon": 21.14224434
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Laisvės g. 63, Ignalina",
+"r": "Ignalina",
+"lat": 55.34138557,
+"lon": 26.16466999
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Liepojos g. 10, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.73178615,
+"lon": 21.12698793
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Pramonės pr. 29, Kaunas",
+"r": "Kaunas",
+"lat": 54.9539629,
+"lon": 23.03957462
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Taikos g. 162a, Vilnius",
+"r": "Vilnius",
+"lat": 54.7124039,
+"lon": 25.215764
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Savanorių pr. 31, Vilnius",
+"r": "Vilnius",
+"lat": 54.67399226,
+"lon": 25.24729013
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Ukmergės g. 282, Vilnius",
+"r": "Vilnius",
+"lat": 54.72782958,
+"lon": 25.23920059
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Žemaitės al. 29, Kretinga",
+"r": "Kretinga",
+"lat": 55.8940748,
+"lon": 21.26173599
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Žalgirio g. 105, Vilnius",
+"r": "Vilnius",
+"lat": 54.7043113,
+"lon": 25.2827352
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Klaipėdos g. 103, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72865675,
+"lon": 24.32428837
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Klaipėdos g. 37 / S.Dariaus ir S.Girėno g. 2, Gargždai",
+"r": "Gargždai",
+"lat": 55.71217194,
+"lon": 21.38342857
+},
+{
+"t": 1,
+"n": "PC MAXIMA",
+"a": "Žiedo g. 1, Ukmergė",
+"r": "Ukmergė",
+"lat": 55.2426769,
+"lon": 24.74423239
+},
+{
+"t": 2,
+"n": "PC MEGA",
+"a": "Islandijos pl. 32, Kaunas",
+"r": "Kaunas",
+"lat": 54.93980841,
+"lon": 23.89294624
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Kauno g. 22, Vievis",
+"r": "Vievis",
+"lat": 55.92824044,
+"lon": 23.30846071
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Gedimino g. 42, Radviliškis",
+"r": "Radviliškis",
+"lat": 55.81194711,
+"lon": 23.54690909
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "M. K. Čiurlionio g. 99, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.0122926,
+"lon": 23.9875752
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Šilutės pl. 40A, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.6882519,
+"lon": 21.1786256
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "V.Kudirkos g. 3, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.5597581,
+"lon": 23.354702
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Veiverių g. 150B, Kaunas",
+"r": "Kaunas",
+"lat": 54.86479651,
+"lon": 23.8870883
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Klaipėdos g. 92, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.7289983,
+"lon": 24.34
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "V. Kudirkos g. 3, Marijampolė",
+"r": "Marijampolė",
+"lat": 54.55997581,
+"lon": 23.354702
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Pavenčio g. 4, Kuršėnai",
+"r": "Kuršėnai",
+"lat": 56.0016807,
+"lon": 22.9371183
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Veiverių g. 150B, Kaunas",
+"r": "Kaunas",
+"lat": 54.8650469,
+"lon": 23.886237
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "I. Šeiniaus g. 19, Širvintos",
+"r": "Širvintos",
+"lat": 55.0385174,
+"lon": 24.95467185
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Tuskulėnų g. 66, Vilnius",
+"r": "Vilnius",
+"lat": 54.70206676,
+"lon": 25.28915405
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Vilniaus g. 48, Pasvalys",
+"r": "Pasvalys",
+"lat": 56.0564806,
+"lon": 24.40642941
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Gedimino g. 53, Kupiškis",
+"r": "Kupiškis",
+"lat": 55.835388,
+"lon": 24.9815359
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Žemaitijos g. 20-2, Mažeikiai",
+"r": "Mažeikiai",
+"lat": 56.30512242,
+"lon": 22.33121395
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Pramonės pr. 29, Kaunas",
+"r": "Kaunas",
+"lat": 54.9117592,
+"lon": 23.9830751
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Klaipėdos g. 92, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72887866,
+"lon": 24.33993455
+},
+{
+"t": 2,
+"n": "PC Maxima",
+"a": "Liepkalnio g. 112, Vilnius",
+"r": "Vilnius",
+"lat": 54.6531542,
+"lon": 25.3041989
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Naugarduko g. 84, Vilnius",
+"r": "Vilnius",
+"lat": 54.6695009,
+"lon": 25.2585035
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "J. Basanavičiaus g. 93, Kėdainiai",
+"r": "Kėdainiai",
+"lat": 55.2773634,
+"lon": 23.9587587
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Sausio 13-osios g. 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.69271579,
+"lon": 25.2211896
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Tumo Vaižganto g. 81, Plungė",
+"r": "Plungė",
+"lat": 55.90469568,
+"lon": 21.83326721
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Vytauto Didžiojo g. 49, Kelmė",
+"r": "Kelmė",
+"lat": 55.63017645,
+"lon": 22.93089151
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Gėlių g. 2B, Ringaudai",
+"r": "Ringaudai",
+"lat": 54.88959197,
+"lon": 23.80565643
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "V. Krėvės pr. 14B, Kaunas",
+"r": "Kaunas",
+"lat": 54.9149609,
+"lon": 23.962626
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Ukmergės g. 23, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.7286278,
+"lon": 24.370617
+},
+{
+"t": 1,
+"n": "PC Maxima",
+"a": "Vytauto g. 105, Garliava",
+"r": "Garliava",
+"lat": 54.82581022,
+"lon": 23.87226105
+},
+{
+"t": 1,
+"n": "PC Maxima bazė",
+"a": "Savanorių pr. 247, Vilnius",
+"r": "Vilnius",
+"lat": 54.656584,
+"lon": 25.138779
+},
+{
+"t": 1,
+"n": "PC Mega Plaza",
+"a": "H. Manto g. 21, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.71603997,
+"lon": 21.12848997
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Ramygalos g. 147K, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.70878105,
+"lon": 24.3752718
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Dzūkų g. 3, Lazdijai",
+"r": "Lazdijai",
+"lat": 54.23880578,
+"lon": 23.51168096
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Domininkonų g. 12, Raseiniai",
+"r": "Raseiniai",
+"lat": 55.37937865,
+"lon": 23.11876416
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Respublikos g. 30, N. Akmenė",
+"r": "N. Akmenė",
+"lat": 56.31978976,
+"lon": 22.87317037
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Cintjoniškių g.13, Šilutė",
+"r": "Šilutė",
+"lat": 55.34993872,
+"lon": 21.47361516
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Daukanto g. 7a, N. Akmenė",
+"r": "N. Akmenė",
+"lat": 56.24342146,
+"lon": 22.75252461
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Vilniaus g. 22, Anykščiai",
+"r": "Anykščiai",
+"lat": 55.52261225,
+"lon": 25.09925365
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Molėtų g. 4, Pabradė",
+"r": "Pabradė",
+"lat": 54.97963319,
+"lon": 25.75590134
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Taikos pr. 10, Visaginas",
+"r": "Visaginas",
+"lat": 55.60397821,
+"lon": 26.43164635
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "V. Juozapavičiaus g. 84A, Kaunas",
+"r": "Kaunas",
+"lat": 54.87639345,
+"lon": 23.93614054
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Vilniaus g. 2, Kuršėnai",
+"r": "Kuršėnai",
+"lat": 56.00205262,
+"lon": 22.93853044
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Šilingo g. 5, Kelmė",
+"r": "Kelmė",
+"lat": 55.6320296,
+"lon": 22.9281043
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "L. Asanavičiūtės g. 29, Vilnius",
+"r": "Vilnius",
+"lat": 54.69314788,
+"lon": 25.21669567
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Aukštakalnio g. 34, Utena",
+"r": "Utena",
+"lat": 55.5107921,
+"lon": 25.58541669
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Justiniškių g. 91, Vilnius",
+"r": "Vilnius",
+"lat": 54.7175859,
+"lon": 25.2228926
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Dariaus ir Girėno g. 46, Skuodas",
+"r": "Skuodas",
+"lat": 56.26909029,
+"lon": 21.5407956
+},
+{
+"t": 1,
+"n": "PC NORFA",
+"a": "Chemikų g. 2, Jonava",
+"r": "Jonava",
+"lat": 55.0727432,
+"lon": 24.25863937
+},
+{
+"t": 2,
+"n": "PC NORFA",
+"a": "L. Asanavičiūtės g. 29, Vilnius",
+"r": "Vilnius",
+"lat": 54.69330189,
+"lon": 25.2163
+},
+{
+"t": 1,
+"n": "PC NORFA BAZĖ",
+"a": "Savanoriu pr. 176, Vilnius",
+"r": "Vilnius",
+"lat": 54.65197552,
+"lon": 25.22624016
+},
+{
+"t": 1,
+"n": "PC Nendrė",
+"a": "Nepriklausomybės a. 8, Dusetos",
+"r": "Dusetos",
+"lat": 55.7466866,
+"lon": 25.84106684
+},
+{
+"t": 2,
+"n": "PC Nordika",
+"a": "Vikingų g. 3, Vilnius",
+"r": "Vilnius",
+"lat": 54.65311674,
+"lon": 25.2774682
+},
+{
+"t": 1,
+"n": "PC Norfa",
+"a": "Nepriklausomybės g. 61, Vilkaviškis",
+"r": "Vilkaviškis",
+"lat": 54.65863743,
+"lon": 23.02999914
+},
+{
+"t": 1,
+"n": "PC Norfa",
+"a": "Panevėžio g. 1, Rokiškis",
+"r": "Rokiškis",
+"lat": 55.9472984,
+"lon": 25.5890513
+},
+{
+"t": 1,
+"n": "PC Norfa",
+"a": "Gedimino g. 28, Tauragė",
+"r": "Tauragė",
+"lat": 55.2510785,
+"lon": 22.29892019
+},
+{
+"t": 1,
+"n": "PC Norfa",
+"a": "Žeimių g. 26A, Jonava",
+"r": "Jonava",
+"lat": 55.0837682,
+"lon": 24.2725816
+},
+{
+"t": 1,
+"n": "PC Norfa",
+"a": "Taikos pr. 10, Visaginas",
+"r": "Visaginas",
+"lat": 55.60397821,
+"lon": 26.43164635
+},
+{
+"t": 2,
+"n": "PC Norfa",
+"a": "Klevų g. 4, Lentvaris",
+"r": "Lentvaris",
+"lat": 54.646494,
+"lon": 25.0512952
+},
+{
+"t": 2,
+"n": "PC Norfa",
+"a": "Justiniškių g. 91, Vilnius",
+"r": "Vilnius",
+"lat": 54.717638,
+"lon": 25.222827
+},
+{
+"t": 1,
+"n": "PC OGMINA",
+"a": "Vilniaus g. 208, Šiauliai",
+"r": "Šiauliai",
+"lat": 56.26888115,
+"lon": 21.5404129
+},
+{
+"t": 2,
+"n": "PC PUPA",
+"a": "Priegliaus g. 1, Vilnius",
+"r": "Vilnius",
+"lat": 54.7101556,
+"lon": 25.18715286
+},
+{
+"t": 2,
+"n": "PC PUPA",
+"a": "Priegliaus g. 1, Vilnius",
+"r": "Vilnius",
+"lat": 54.70972233,
+"lon": 25.18723011
+},
+{
+"t": 1,
+"n": "PC Pasimatymas",
+"a": "V. Krėvės pr. 57, Kaunas",
+"r": "Kaunas",
+"lat": 56.19957978,
+"lon": 24.75565329
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Liepojos g. 27, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.750835,
+"lon": 21.12971306
+},
+{
+"t": 2,
+"n": "PC RIMI",
+"a": "V. Krėvės pr. 43A, Kaunas",
+"r": "Kaunas",
+"lat": 54.91764389,
+"lon": 23.9662889
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Vydūno g. 4, Vilnius",
+"r": "Vilnius",
+"lat": 54.93949458,
+"lon": 23.8947916
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Medeinos g. 8, Vilnius",
+"r": "Vilnius",
+"lat": 54.72984899,
+"lon": 25.2272649
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Klaipėdos g. 82, Panevėžys",
+"r": "Panevėžys",
+"lat": 55.72835467,
+"lon": 24.34294581
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Vytauto pr. 24, Kaunas",
+"r": "Kaunas",
+"lat": 54.88922818,
+"lon": 23.92749218
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Vingio g. 29, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.66807353,
+"lon": 21.19623184
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Malūno g. 10, Palanga",
+"r": "Palanga",
+"lat": 55.92066631,
+"lon": 21.07825756
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "L. Asanavičiūtės g. 20, Vilnius",
+"r": "Vilnius",
+"lat": 54.68459923,
+"lon": 25.20476103
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Antakalnio g. 55,, Vilnius",
+"r": "Vilnius",
+"lat": 54.65875308,
+"lon": 25.15343427
+},
+{
+"t": 1,
+"n": "PC RIMI",
+"a": "Šiaurės g. 37, N. Vilnia",
+"r": "N. Vilnia",
+"lat": 54.70078346,
+"lon": 25.41045427
+},
+{
+"t": 1,
+"n": "PC RIMI Hypermarket",
+"a": "Naujoji g. 7E/1, Alytus",
+"r": "Alytus",
+"lat": 54.71129666,
+"lon": 25.26044369
+},
+{
+"t": 2,
+"n": "PC RIVER MALL",
+"a": "Jonavos g. 60, Kaunas",
+"r": "Kaunas",
+"lat": 54.89769332,
+"lon": 23.90977979
+},
+{
+"t": 1,
+"n": "PC Rašė",
+"a": "J. Tumo - Vaižganto g. 17, Utena",
+"r": "Utena",
+"lat": 54.72892617,
+"lon": 25.26932716
+},
+{
+"t": 1,
+"n": "PC Rimi",
+"a": "Varnių g. 43, Kaunas",
+"r": "Kaunas",
+"lat": 54.9151879,
+"lon": 23.90180899
+},
+{
+"t": 1,
+"n": "PC Rimi",
+"a": "Savanorių pr. 321, Kaunas",
+"r": "Kaunas",
+"lat": 54.920106,
+"lon": 23.95129599
+},
+{
+"t": 1,
+"n": "PC Saulėtekis",
+"a": "V.Krėvės pr. 97a, Kaunas",
+"r": "Kaunas",
+"lat": 54.92462031,
+"lon": 23.98195267
+},
+{
+"t": 1,
+"n": "PC Savas",
+"a": "Savanorių pr. 346, Kaunas",
+"r": "Kaunas",
+"lat": 54.92270284,
+"lon": 23.96259785
+},
+{
+"t": 1,
+"n": "PC Senukai",
+"a": "Vytauto g. 45, Prienai",
+"r": "Prienai",
+"lat": 54.63620649,
+"lon": 23.94502401
+},
+{
+"t": 2,
+"n": "PC Senukai",
+"a": "Draugystės g. 8C, Kaunas",
+"r": "Kaunas",
+"lat": 54.91005817,
+"lon": 23.98731709
+},
+{
+"t": 2,
+"n": "PC VCUP",
+"a": "Upės g. 9, Vilnius",
+"r": "Vilnius",
+"lat": 54.693669,
+"lon": 25.27608235
+},
+{
+"t": 2,
+"n": "PC VCUP",
+"a": "Upės g. 9, Vilnius",
+"r": "Vilnius",
+"lat": 54.55484306,
+"lon": 23.3533287
+},
+{
+"t": 1,
+"n": "PC „Žali“",
+"a": "Visalaukio g. 1, Vilnius",
+"r": "Vilnius",
+"lat": 54.77810724,
+"lon": 25.34153858
+},
+{
+"t": 2,
+"n": "PM URMAS",
+"a": "Pramonės pr. 16, Kaunas",
+"r": "Kaunas",
+"lat": 54.91596836,
+"lon": 23.9969605
+},
+{
+"t": 2,
+"n": "PPC \"Tilžė\"",
+"a": "Tilžės g. 225, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.943161,
+"lon": 23.3275409
+},
+{
+"t": 2,
+"n": "PPC Akropolis",
+"a": "Taikos pr. 61, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.69181012,
+"lon": 21.15576267
+},
+{
+"t": 2,
+"n": "PPC Ozas",
+"a": "Ozo g. 18, Vilnius",
+"r": "Vilnius",
+"lat": 54.7141583,
+"lon": 25.2754272
+},
+{
+"t": 2,
+"n": "Pakruojo KAC",
+"a": "Vytauto Didžiojo g. 78, Pakruojis",
+"r": "Pakruojis",
+"lat": 55.97970525,
+"lon": 23.85539532
+},
+{
+"t": 2,
+"n": "Panoramos KAC",
+"a": "Saltoniškių g. 9, Vilnius",
+"r": "Vilnius",
+"lat": 54.69953112,
+"lon": 25.2574718
+},
+{
+"t": 2,
+"n": "Panoramos KAC",
+"a": "Saltoniškių g. 9, Vilnius",
+"r": "Vilnius",
+"lat": 54.69966752,
+"lon": 25.25879145
+},
+{
+"t": 1,
+"n": "Pard. \"Vilkasta\"",
+"a": "S.Daukanto g. 31, Vilkaviškis",
+"r": "Vilkaviškis",
+"lat": 54.6464136,
+"lon": 23.03652763
+},
+{
+"t": 1,
+"n": "Parduotuve Senbuviai",
+"a": "J. Basanavičiaus g. 52, Kybartai",
+"r": "Kybartai",
+"lat": 54.0153972,
+"lon": 23.97592306
+},
+{
+"t": 1,
+"n": "Parduotuvė Santaka",
+"a": "J.Basanavičiaus g. 53, Utena",
+"r": "Utena",
+"lat": 55.49766093,
+"lon": 25.59936762
+},
+{
+"t": 1,
+"n": "Parduotuvė „Sala“",
+"a": "Turgaus a. 2/Žemaitės g. 1, Salantai",
+"r": "Salantai",
+"lat": 56.0595631,
+"lon": 21.5719199
+},
+{
+"t": 2,
+"n": "Pasvalio KAC",
+"a": "Vilniaus g. 11, Pasvalys",
+"r": "Pasvalys",
+"lat": 56.06029661,
+"lon": 24.40268397
+},
+{
+"t": 2,
+"n": "Pasvalio KAC",
+"a": "Vilniaus g. 11, Pasvalys",
+"r": "Pasvalys",
+"lat": 56.0602762,
+"lon": 24.4027319
+},
+{
+"t": 2,
+"n": "Plungės KAC",
+"a": "S. Dariaus ir S. Girėno g. 5, Plungė",
+"r": "Plungė",
+"lat": 55.91352965,
+"lon": 21.8468821
+},
+{
+"t": 2,
+"n": "Plungės KAC",
+"a": "S. Dariaus ir S. Girėno g. 5, Plungė",
+"r": "Plungė",
+"lat": 55.91351762,
+"lon": 21.84691429
+},
+{
+"t": 1,
+"n": "Prekybos centras",
+"a": "Naujoji g. 48A, Alytus",
+"r": "Alytus",
+"lat": 54.4017596,
+"lon": 24.02333199
+},
+{
+"t": 2,
+"n": "Prienų KAC",
+"a": "Vytauto g. 33, Prienai",
+"r": "Prienai",
+"lat": 54.63476586,
+"lon": 23.94594669
+},
+{
+"t": 2,
+"n": "Prienų KAC",
+"a": "Vytauto g. 33, Prienai",
+"r": "Prienai",
+"lat": 54.63476586,
+"lon": 23.94594669
+},
+{
+"t": 2,
+"n": "Radviliškio KAC",
+"a": "S.Dariaus ir S.Girėno g. 3, Radviliškis",
+"r": "Radviliškis",
+"lat": 55.80858901,
+"lon": 23.53827238
+},
+{
+"t": 2,
+"n": "Radviliškio KAC",
+"a": "S.Dariaus ir S.Girėno g.3, Radviliškis",
+"r": "Radviliškis",
+"lat": 55.80858901,
+"lon": 23.53827238
+},
+{
+"t": 2,
+"n": "Raseinių KAC",
+"a": "Dominikonų g. 2A, Raseiniai",
+"r": "Raseiniai",
+"lat": 55.38069525,
+"lon": 23.11587811
+},
+{
+"t": 2,
+"n": "Raseinių KAC",
+"a": "Dominikonų g. 2A, Raseiniai",
+"r": "Raseiniai",
+"lat": 55.38090249,
+"lon": 23.11607659
+},
+{
+"t": 2,
+"n": "Rietavo SC",
+"a": "Plungės g. 2, Rietavas",
+"r": "Rietavas",
+"lat": 55.72435397,
+"lon": 21.93162484
+},
+{
+"t": 2,
+"n": "Rietavo SC",
+"a": "Plungės g. 2, Rietavas",
+"r": "Rietavas",
+"lat": 55.72433681,
+"lon": 21.93179011
+},
+{
+"t": 2,
+"n": "Rokiškio KAC",
+"a": "Nepriklausomybės a. 24, Rokiškis",
+"r": "Rokiškis",
+"lat": 55.96390308,
+"lon": 25.58763027
+},
+{
+"t": 2,
+"n": "Rokiškio KAC",
+"a": "Nepriklausomybės a. 24, Rokiškis",
+"r": "Rokiškis",
+"lat": 55.96399916,
+"lon": 25.58726549
+},
+{
+"t": 1,
+"n": "SPA Vilnius",
+"a": "K. Dineikos g. 1, Druskininkai",
+"r": "Druskininkai",
+"lat": 54.0126687,
+"lon": 23.97939109
+},
+{
+"t": 1,
+"n": "Santariškių ligonine",
+"a": "Santariškių g. 2, Vilnius",
+"r": "Vilnius",
+"lat": 54.75189809,
+"lon": 25.27889729
+},
+{
+"t": 2,
+"n": "Savanorių SC",
+"a": "Savanorių pr. 255, Kaunas",
+"r": "Kaunas",
+"lat": 54.9150019,
+"lon": 23.9382165
+},
+{
+"t": 2,
+"n": "Savanorių SC",
+"a": "Savanorių pr. 255, Kaunas",
+"r": "Kaunas",
+"lat": 54.9150019,
+"lon": 23.9382166
+},
+{
+"t": 2,
+"n": "Savas KAC",
+"a": "Savanorių pr. 346, Kaunas",
+"r": "Kaunas",
+"lat": 54.92236989,
+"lon": 23.9619112
+},
+{
+"t": 2,
+"n": "Savas KAC",
+"a": "Savanorių pr. 346, Kaunas",
+"r": "Kaunas",
+"lat": 54.92233289,
+"lon": 23.96186829
+},
+{
+"t": 2,
+"n": "Savas KAC",
+"a": "Savanorių pr. 346, Kaunas",
+"r": "Kaunas",
+"lat": 54.92220958,
+"lon": 23.96186829
+},
+{
+"t": 2,
+"n": "Savitarnos centras",
+"a": "Tilžės g. 109, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.92833661,
+"lon": 23.30779552
+},
+{
+"t": 2,
+"n": "Savitarnos centras",
+"a": "Taikos pr. 98, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.66881173,
+"lon": 21.17097616
+},
+{
+"t": 2,
+"n": "Savitarnos centras",
+"a": "Taikos pr. 98, Klaipėda",
+"r": "Klaipėda",
+"lat": 55.66867861,
+"lon": 21.17078304
+},
+{
+"t": 2,
+"n": "Savitarnos centras",
+"a": "Tilžės g. 109, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.9281082,
+"lon": 23.30813885
+},
+{
+"t": 2,
+"n": "Savitarnos centras",
+"a": "Tilžės g. 109, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.92801423,
+"lon": 23.30828369
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "Santarvės g. 3, Veisiejai",
+"r": "Veisiejai",
+"lat": 54.10038793,
+"lon": 23.69393706
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "Klaipėdos g. 14, Priekulė",
+"r": "Priekulė",
+"lat": 55.5563112,
+"lon": 21.31901264
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "Vytauto g. 2, Varniai",
+"r": "Varniai",
+"lat": 55.74230826,
+"lon": 22.37099648
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "Bausko g. 11, Venta",
+"r": "Venta",
+"lat": 56.1890525,
+"lon": 22.6871696
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "Birutės al. 1, Krekenava",
+"r": "Krekenava",
+"lat": 55.54252186,
+"lon": 24.09816742
+},
+{
+"t": 1,
+"n": "Seniūnija",
+"a": "A. Baranausko al. 1, Seda",
+"r": "Seda",
+"lat": 56.1675083,
+"lon": 22.0906597
+},
+{
+"t": 1,
+"n": "Sigmos komerc.centr.",
+"a": "Kalvarijų g. 125, Vilnius",
+"r": "Vilnius",
+"lat": 54.71200322,
+"lon": 25.28677225
+},
+{
+"t": 2,
+"n": "Skuodo KAC",
+"a": "Vilniaus g. 34B, Skuodas",
+"r": "Skuodas",
+"lat": 56.2710571,
+"lon": 21.5409569
+},
+{
+"t": 2,
+"n": "Skuodo KAC",
+"a": "Vilniaus g. 34B, Skuodas",
+"r": "Skuodas",
+"lat": 56.2710571,
+"lon": 21.5409569
+},
+{
+"t": 2,
+"n": "Telšių KAC",
+"a": "Turgaus a. 15A/2A, Telšiai",
+"r": "Telšiai",
+"lat": 55.98385886,
+"lon": 22.25184202
+},
+{
+"t": 2,
+"n": "Telšių KAC",
+"a": "Turgaus a. 15A/2A, Telšiai",
+"r": "Telšiai",
+"lat": 55.98396689,
+"lon": 22.25191712
+},
+{
+"t": 2,
+"n": "Trakų KAC",
+"a": "Vytauto g. 37/1, Trakai",
+"r": "Trakai",
+"lat": 54.6421982,
+"lon": 24.932034
+},
+{
+"t": 2,
+"n": "Trakų KAC",
+"a": "Vytauto g. 37/1, Trakai",
+"r": "Trakai",
+"lat": 54.6421299,
+"lon": 24.93251681
+},
+{
+"t": 1,
+"n": "Turizmo infocentras",
+"a": "Vytauto g. 94, Palanga",
+"r": "Palanga",
+"lat": 55.917964,
+"lon": 21.066768
+},
+{
+"t": 1,
+"n": "UAB Povydė",
+"a": "Aukštaičių g. 88, Panevėžys",
+"r": "Panevėžys",
+"lat": 54.91404532,
+"lon": 23.93899441
+},
+{
+"t": 2,
+"n": "Ukmergės KAC",
+"a": "Kauno g. 16, Ukmergė",
+"r": "Ukmergė",
+"lat": 55.24841438,
+"lon": 24.76185322
+},
+{
+"t": 2,
+"n": "Ukmergės KAC",
+"a": "Kauno g. 16, Ukmergė",
+"r": "Ukmergė",
+"lat": 55.24838405,
+"lon": 24.76157566
+},
+{
+"t": 1,
+"n": "Urmo bazė",
+"a": "Pramonės pr. 16, Kaunas",
+"r": "Kaunas",
+"lat": 54.91646271,
+"lon": 23.98860455
+},
+{
+"t": 2,
+"n": "Utenos KAC",
+"a": "A. Baranausko g. 19, Utena",
+"r": "Utena",
+"lat": 55.5000558,
+"lon": 25.6021097
+},
+{
+"t": 1,
+"n": "Vaistinė Camelia",
+"a": "Laisvės al. 55, Kaunas",
+"r": "Kaunas",
+"lat": 54.89719359,
+"lon": 23.91384602
+},
+{
+"t": 2,
+"n": "Varėnos KAC",
+"a": "Vytauto g. 18, Varėna",
+"r": "Varėna",
+"lat": 54.2115169,
+"lon": 24.5689349
+},
+{
+"t": 2,
+"n": "Varėnos KAC",
+"a": "Vytauto g. 18, Varėna",
+"r": "Varėna",
+"lat": 54.21163374,
+"lon": 24.56971049
+},
+{
+"t": 1,
+"n": "Viešbutis Radisson",
+"a": "Konstitucijos pr. 20, Vilnius",
+"r": "Vilnius",
+"lat": 54.6950736,
+"lon": 25.2747213
+},
+{
+"t": 2,
+"n": "Vilkaviškio KAC",
+"a": "J. Basanavičiaus a. 9, Vilkaviškis",
+"r": "Vilkaviškis",
+"lat": 54.65007611,
+"lon": 23.03283155
+},
+{
+"t": 2,
+"n": "Vilkaviškio KAC",
+"a": "J. Basanavičiaus a. 9, Vilkaviškis",
+"r": "Vilkaviškis",
+"lat": 54.65007611,
+"lon": 23.03283155
+},
+{
+"t": 1,
+"n": "Vilniaus g. 24",
+"a": "Vilniaus g. 24, Pagėgiai",
+"r": "Pagėgiai",
+"lat": 55.13489612,
+"lon": 21.90936685
+},
+{
+"t": 1,
+"n": "Vilniaus raj. PK",
+"a": "H. Manto g. 4, Vilnius",
+"r": "Vilnius",
+"lat": 54.70130733,
+"lon": 25.28407395
+},
+{
+"t": 2,
+"n": "Zarasų KAC",
+"a": "Sėlių g. 20/2, Zarasai",
+"r": "Zarasai",
+"lat": 55.7327297,
+"lon": 26.2456856
+},
+{
+"t": 2,
+"n": "Zarasų KAC",
+"a": "Sėlių a. 20, Zarasai",
+"r": "Zarasai",
+"lat": 55.73280103,
+"lon": 26.24577999
+},
+{
+"t": 2,
+"n": "Šakių KAC",
+"a": "V. Kudirkos g. 61/1, Šakiai",
+"r": "Šakiai",
+"lat": 54.95397214,
+"lon": 23.04496586
+},
+{
+"t": 2,
+"n": "Šakių KAC",
+"a": "V.Kudirkos g.61/Vasario 16-os g.1, Šakiai",
+"r": "Šakiai",
+"lat": 54.95397214,
+"lon": 23.04496586
+},
+{
+"t": 2,
+"n": "Šalčininkų KAC",
+"a": "Mokyklos g. 17, Šalčininkai",
+"r": "Šalčininkai",
+"lat": 54.3093556,
+"lon": 25.3832691
+},
+{
+"t": 2,
+"n": "Šalčininkų KAC",
+"a": "Mokyklos g. 17, Šalčininkai",
+"r": "Šalčininkai",
+"lat": 54.30950093,
+"lon": 25.38373947
+},
+{
+"t": 2,
+"n": "Šilalės KAC",
+"a": "J.Basanavičiaus g. 16, Šilalė",
+"r": "Šilalė",
+"lat": 55.4891458,
+"lon": 22.18915343
+},
+{
+"t": 2,
+"n": "Šilalės KAC",
+"a": "J. Basanavičiaus g. 16, Šilalė",
+"r": "Šilalė",
+"lat": 55.48918227,
+"lon": 22.18900323
+},
+{
+"t": 2,
+"n": "Šilutės KAC",
+"a": "Lietuvininkų g. 48A, Šilutė",
+"r": "Šilutė",
+"lat": 55.3429852,
+"lon": 21.4721969
+},
+{
+"t": 2,
+"n": "Šilutės KAC",
+"a": "Lietuvininkų g. 48A, Šilutė",
+"r": "Šilutė",
+"lat": 55.34269124,
+"lon": 21.47217751
+},
+{
+"t": 2,
+"n": "Švenčionių KAC",
+"a": "Lentupio g. 3, Švenčionys",
+"r": "Švenčionys",
+"lat": 55.13363274,
+"lon": 26.16034219
+},
+{
+"t": 2,
+"n": "Švenčionių KAC",
+"a": "Lentupio g. 3, Švenčionys",
+"r": "Švenčionys",
+"lat": 55.13339348,
+"lon": 26.16021752
+},
+{
+"t": 1,
+"a": "Vilniaus g. 225, Šiauliai",
+"r": "Šiauliai",
+"lat": 55.93352943,
+"lon": 23.31075668
+}
+]
