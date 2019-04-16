@@ -1,8 +1,8 @@
 Project Name: BranchList
 
-BranchList app shows bank's branches info. App has three screen. Region List, Branch List at region and Branch Detail.  
+BranchList app shows bank's branches info. App has three screens. Region List, Branch List at region and Branch Detail.  
 Application calls branch list from API at launch and stores branch data in the files. First screen shows all data from API.
-Second screen will open when one of the regions selected at first screen. Second screen shows branches list.
+Second screen opens when one of the regions selected at first screen. Second screen shows branches list.
 Third screen shows branch detail.
 
 App has a few singleton classes for handle file operations, call and store data on executing and network calling.
