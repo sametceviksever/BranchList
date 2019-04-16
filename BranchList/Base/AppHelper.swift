@@ -10,27 +10,27 @@ import UIKit
 
 public protocol AppHelperDelegate: class{
   func didUpdate(countries: [Country])
-  func thereIsAnAlert(alertView: UIAlertController)
+  func thereIsAnError(_ error: Error)
 }
 
 public class AppHelper {
   static var shared: AppHelper = AppHelper()
-  private var alert: UIAlertController?
+  private var error: Error?
   
   public private(set) var countries: [Country] = []
   
   weak var delegate: AppHelperDelegate? {
     didSet{
       checkDataAndSend()
-      if alert != nil {
-        delegate?.thereIsAnAlert(alertView: alert!)
-        alert = nil
+      if error != nil {
+        delegate?.thereIsAnError(error!)
+        error = nil
       }
     }
   }
   
-  public func prepareData(isLaunch: Bool) {
-    let shouldRequest = isLaunch || File.shared.shouldRequestFile
+  public func prepareData(forceDownload: Bool) {
+    let shouldRequest = forceDownload || File.shared.shouldRequestFile
     countries = []
     if shouldRequest {
       downloadDatas()
@@ -43,8 +43,7 @@ public class AppHelper {
     let countryTypes: [CountryEnum] = CountryEnum.countries
     for type in countryTypes {
       guard let json = File.shared.readFile(for: type) else {
-        countries = []
-        downloadDatas()
+        prepareData(forceDownload: true)
         return
       }
       appendData(with: json, for: type)
@@ -57,7 +56,7 @@ public class AppHelper {
       var request = BankLocationRequest(country: type)
       request.handler = {[unowned self] response in
         if let error = response.error {
-          self.showError(error: error)
+          self.handle(error)
         }
         
         guard let json = response.value else {return}
@@ -69,19 +68,16 @@ public class AppHelper {
     }
   }
   
-  private func showError(error: Error) {
-    let message = "Somethings went wrong when calling api. I'll try one more time :)"
-    let alertView = UIAlertController(title: "Error", message: message, preferredStyle: .alert)
-    
-    alertView.addAction(UIAlertAction(title: "OK", style: .cancel, handler: { [unowned self] (_) in
-      self.countries = []
-      self.downloadDatas()
-    }))
+  private func handle(_ error: Error) {
+    let countries = CountryEnum.countries
+    for country in countries {
+      File.shared.deleteFile(for: country)
+    }
     
     if delegate != nil {
-      delegate?.thereIsAnAlert(alertView: alertView)
+      delegate?.thereIsAnError(error)
     } else {
-      alert = alertView
+      self.error = error
     }
   }
   

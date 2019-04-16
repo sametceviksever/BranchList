@@ -33,7 +33,7 @@ public extension Request {
     guard let url = URL(string: url) else {return nil}
     var urlRequest = URLRequest(url: url, cachePolicy: cachePolicy, timeoutInterval: timeOut)
     var mutableHeaders = headers
-    let cookies = HTTPCookie.requestHeaderFields(with: HTTPCookieStorage.shared.cookies ?? [])
+    let cookies = HTTPCookie.requestHeaderFields(with: HTTPCookieStorage.shared.cookies(for: url) ?? [])
     for cookie in cookies {
       mutableHeaders[cookie.key] = cookie.value
     }

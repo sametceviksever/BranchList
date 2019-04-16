@@ -11,7 +11,7 @@
 		A2D723AA2261BB1F00BA4DAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D723A82261BB1F00BA4DAF /* Main.storyboard */; };
 		A2D723AC2261BB2000BA4DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D723AB2261BB2000BA4DAF /* Assets.xcassets */; };
 		A2D723AF2261BB2000BA4DAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D723AD2261BB2000BA4DAF /* LaunchScreen.storyboard */; };
-		A2D723BE22621F9800BA4DAF /* FileOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723BD22621F9800BA4DAF /* FileOperation.swift */; };
+		A2D723BE22621F9800BA4DAF /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723BD22621F9800BA4DAF /* File.swift */; };
 		A2D723C12262281800BA4DAF /* DataExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723C02262281800BA4DAF /* DataExtension.swift */; };
 		A2D723C3226243DE00BA4DAF /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */; };
 		A2D723CB2262459500BA4DAF /* BranchListFileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D723CA2262459500BA4DAF /* BranchListFileTests.swift */; };
@@ -37,16 +37,19 @@
 		A2D724032263165300BA4DAF /* BranchTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D724012263165300BA4DAF /* BranchTVC.xib */; };
 		A2D7240522643EA700BA4DAF /* BranchListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240422643EA700BA4DAF /* BranchListViewModel.swift */; };
 		A2D724072264410600BA4DAF /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724062264410600BA4DAF /* Reusable.swift */; };
-		A2D724092264421000BA4DAF /* UITableView+Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724082264421000BA4DAF /* UITableView+Reusable.swift */; };
+		A2D724092264421000BA4DAF /* UITableViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D724082264421000BA4DAF /* UITableViewExtension.swift */; };
 		A2D7240B2264431A00BA4DAF /* UIViewController+Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */; };
 		A2D7240F2264469100BA4DAF /* BranchDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7240D2264469100BA4DAF /* BranchDetailVC.swift */; };
 		A2D724102264469100BA4DAF /* BranchDetailVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D7240E2264469100BA4DAF /* BranchDetailVC.xib */; };
 		A2D7241222646A4A00BA4DAF /* lithuania.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241122646A4A00BA4DAF /* lithuania.json */; };
-		A2D7241422646A5800BA4DAF /* TestHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241322646A5800BA4DAF /* TestHelper.swift */; };
 		A2D72415226470A300BA4DAF /* lithuania.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241122646A4A00BA4DAF /* lithuania.json */; };
 		A2D7241922649D1200BA4DAF /* BranchDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241822649D1200BA4DAF /* BranchDetailViewModel.swift */; };
 		A2D7241D2264A25000BA4DAF /* BranchDetailTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */; };
 		A2D7241E2264A25000BA4DAF /* BranchDetailTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */; };
+		A2D7242022659B2A00BA4DAF /* BranchListViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7241F22659B2A00BA4DAF /* BranchListViewModelTest.swift */; };
+		A2D7242222659D9300BA4DAF /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7242122659D9300BA4DAF /* BaseView.swift */; };
+		A2D7242522659DBA00BA4DAF /* EmptyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7242422659DBA00BA4DAF /* EmptyState.swift */; };
+		A2D7242722659E5600BA4DAF /* EmptyState.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D7242622659E5600BA4DAF /* EmptyState.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +69,7 @@
 		A2D723AB2261BB2000BA4DAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2D723AE2261BB2000BA4DAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2D723B02261BB2000BA4DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2D723BD22621F9800BA4DAF /* FileOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileOperation.swift; sourceTree = "<group>"; };
+		A2D723BD22621F9800BA4DAF /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		A2D723C02262281800BA4DAF /* DataExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataExtension.swift; sourceTree = "<group>"; };
 		A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionaryExtension.swift; sourceTree = "<group>"; };
 		A2D723C82262459500BA4DAF /* BranchListFileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BranchListFileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,15 +97,18 @@
 		A2D724012263165300BA4DAF /* BranchTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchTVC.xib; sourceTree = "<group>"; };
 		A2D7240422643EA700BA4DAF /* BranchListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListViewModel.swift; sourceTree = "<group>"; };
 		A2D724062264410600BA4DAF /* Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
-		A2D724082264421000BA4DAF /* UITableView+Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Reusable.swift"; sourceTree = "<group>"; };
+		A2D724082264421000BA4DAF /* UITableViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewExtension.swift; sourceTree = "<group>"; };
 		A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Reusable.swift"; sourceTree = "<group>"; };
 		A2D7240D2264469100BA4DAF /* BranchDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailVC.swift; sourceTree = "<group>"; };
 		A2D7240E2264469100BA4DAF /* BranchDetailVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchDetailVC.xib; sourceTree = "<group>"; };
 		A2D7241122646A4A00BA4DAF /* lithuania.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lithuania.json; sourceTree = "<group>"; };
-		A2D7241322646A5800BA4DAF /* TestHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestHelper.swift; sourceTree = "<group>"; };
 		A2D7241822649D1200BA4DAF /* BranchDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailViewModel.swift; sourceTree = "<group>"; };
 		A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchDetailTVC.swift; sourceTree = "<group>"; };
 		A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BranchDetailTVC.xib; sourceTree = "<group>"; };
+		A2D7241F22659B2A00BA4DAF /* BranchListViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchListViewModelTest.swift; sourceTree = "<group>"; };
+		A2D7242122659D9300BA4DAF /* BaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
+		A2D7242422659DBA00BA4DAF /* EmptyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyState.swift; sourceTree = "<group>"; };
+		A2D7242622659E5600BA4DAF /* EmptyState.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmptyState.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,7 +169,7 @@
 		A2D723BC22621F7900BA4DAF /* FileOperation */ = {
 			isa = PBXGroup;
 			children = (
-				A2D723BD22621F9800BA4DAF /* FileOperation.swift */,
+				A2D723BD22621F9800BA4DAF /* File.swift */,
 			);
 			path = FileOperation;
 			sourceTree = "<group>";
@@ -173,7 +179,7 @@
 			children = (
 				A2D723C02262281800BA4DAF /* DataExtension.swift */,
 				A2D723C2226243DE00BA4DAF /* DictionaryExtension.swift */,
-				A2D724082264421000BA4DAF /* UITableView+Reusable.swift */,
+				A2D724082264421000BA4DAF /* UITableViewExtension.swift */,
 				A2D7240A2264431A00BA4DAF /* UIViewController+Reusable.swift */,
 			);
 			path = Extension;
@@ -182,11 +188,11 @@
 		A2D723C92262459500BA4DAF /* BranchListFileTests */ = {
 			isa = PBXGroup;
 			children = (
+				A2D7241F22659B2A00BA4DAF /* BranchListViewModelTest.swift */,
 				A2D723EB22628C7100BA4DAF /* BranchListModelTest.swift */,
 				A2D723E72262624F00BA4DAF /* BranchListNetworkTest.swift */,
 				A2D723CA2262459500BA4DAF /* BranchListFileTests.swift */,
 				A2D723CC2262459500BA4DAF /* Info.plist */,
-				A2D7241322646A5800BA4DAF /* TestHelper.swift */,
 			);
 			path = BranchListFileTests;
 			sourceTree = "<group>";
@@ -224,6 +230,7 @@
 		A2D723E422625D0000BA4DAF /* Base */ = {
 			isa = PBXGroup;
 			children = (
+				A2D7242322659DAB00BA4DAF /* View */,
 				A2D723D2226246DD00BA4DAF /* CountryEnum.swift */,
 				A2D723E522625D1300BA4DAF /* BankLocationRequest.swift */,
 				A2D723E92262896700BA4DAF /* Branch.swift */,
@@ -231,6 +238,7 @@
 				A2D723EF2262F0F300BA4DAF /* Region.swift */,
 				A2D723F12262F16500BA4DAF /* Country.swift */,
 				A2D724062264410600BA4DAF /* Reusable.swift */,
+				A2D7242122659D9300BA4DAF /* BaseView.swift */,
 			);
 			path = Base;
 			sourceTree = "<group>";
@@ -280,6 +288,15 @@
 			children = (
 				A2D7241B2264A25000BA4DAF /* BranchDetailTVC.swift */,
 				A2D7241C2264A25000BA4DAF /* BranchDetailTVC.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A2D7242322659DAB00BA4DAF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A2D7242422659DBA00BA4DAF /* EmptyState.swift */,
+				A2D7242622659E5600BA4DAF /* EmptyState.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -372,6 +389,7 @@
 				A2D723AC2261BB2000BA4DAF /* Assets.xcassets in Resources */,
 				A2D724032263165300BA4DAF /* BranchTVC.xib in Resources */,
 				A2D723AA2261BB1F00BA4DAF /* Main.storyboard in Resources */,
+				A2D7242722659E5600BA4DAF /* EmptyState.xib in Resources */,
 				A2D724102264469100BA4DAF /* BranchDetailVC.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -395,15 +413,16 @@
 				A2D723F52262F84D00BA4DAF /* RegionListViewModel.swift in Sources */,
 				A2D723F72262F97000BA4DAF /* RegionListVC.swift in Sources */,
 				A2D723A52261BB1F00BA4DAF /* AppDelegate.swift in Sources */,
-				A2D724092264421000BA4DAF /* UITableView+Reusable.swift in Sources */,
+				A2D724092264421000BA4DAF /* UITableViewExtension.swift in Sources */,
 				A2D723C12262281800BA4DAF /* DataExtension.swift in Sources */,
 				A2D7241922649D1200BA4DAF /* BranchDetailViewModel.swift in Sources */,
 				A2D723EE2262906700BA4DAF /* AppHelper.swift in Sources */,
 				A2D7240B2264431A00BA4DAF /* UIViewController+Reusable.swift in Sources */,
 				A2D723FD2263161D00BA4DAF /* BranchListVC.swift in Sources */,
 				A2D723DD2262586A00BA4DAF /* Network.swift in Sources */,
+				A2D7242222659D9300BA4DAF /* BaseView.swift in Sources */,
 				A2D723D9226257F900BA4DAF /* URLResponse.swift in Sources */,
-				A2D723BE22621F9800BA4DAF /* FileOperation.swift in Sources */,
+				A2D723BE22621F9800BA4DAF /* File.swift in Sources */,
 				A2D723E622625D1300BA4DAF /* BankLocationRequest.swift in Sources */,
 				A2D723EA2262896700BA4DAF /* Branch.swift in Sources */,
 				A2D723DB2262583D00BA4DAF /* HTTPEnums.swift in Sources */,
@@ -415,6 +434,7 @@
 				A2D7240522643EA700BA4DAF /* BranchListViewModel.swift in Sources */,
 				A2D723F02262F0F300BA4DAF /* Region.swift in Sources */,
 				A2D723E0226258C500BA4DAF /* Errors.swift in Sources */,
+				A2D7242522659DBA00BA4DAF /* EmptyState.swift in Sources */,
 				A2D723F22262F16500BA4DAF /* Country.swift in Sources */,
 				A2D723C3226243DE00BA4DAF /* DictionaryExtension.swift in Sources */,
 				A2D7241D2264A25000BA4DAF /* BranchDetailTVC.swift in Sources */,
@@ -427,8 +447,8 @@
 			files = (
 				A2D723E82262624F00BA4DAF /* BranchListNetworkTest.swift in Sources */,
 				A2D723CB2262459500BA4DAF /* BranchListFileTests.swift in Sources */,
+				A2D7242022659B2A00BA4DAF /* BranchListViewModelTest.swift in Sources */,
 				A2D723EC22628C7100BA4DAF /* BranchListModelTest.swift in Sources */,
-				A2D7241422646A5800BA4DAF /* TestHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

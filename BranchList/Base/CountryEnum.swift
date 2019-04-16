@@ -21,18 +21,18 @@ public enum CountryEnum: String {
   public var domain: String {
     switch self {
     case .estonia:
-      return "https://www.swedbank.ee"
+      return "www.swedbank.ee"
     case .latvia:
-      return "https://ib.swedbank.lv"
+      return "ib.swedbank.lv"
     case .lithuania:
-      return "https://ib.swedbank.lt"
+      return "ib.swedbank.lt"
     default:
       return ""
     }
   }
   
   public var urlString: String {
-    return domain + "/finder.json"
+    return "https://" + domain + "/finder.json"
   }
   
   public var headerString: String {

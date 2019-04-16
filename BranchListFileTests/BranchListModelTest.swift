@@ -30,7 +30,7 @@ class BranchListModelTest: XCTestCase {
   }
   
   func testCountry() {
-    let data: [[String: Any]]? = TestHelper.readDataFromFile(with: "lithuania", format: "json")
+    let data: [[String: Any]]? = File.readDataFromFile(with: "lithuania", format: "json")
     guard let json = data else {
       XCTAssert(false, "Data cant be nil")
       return

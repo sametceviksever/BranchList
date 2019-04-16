@@ -53,9 +53,6 @@ extension BranchDetailVC: UITableViewDataSource {
 }
 
 extension BranchDetailVC: UITableViewDelegate {
-//  public func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-//    return 30
-//
   
   public func tableView(_ tableView: UITableView, estimatedHeightForRowAt indexPath: IndexPath) -> CGFloat {
     return -1

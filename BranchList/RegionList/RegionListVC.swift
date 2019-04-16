@@ -19,7 +19,8 @@ public class RegionListVC: UIViewController {
   
   override public func viewDidLoad() {
     super.viewDidLoad()
-    viewModel.configure(controller: self)
+    AppHelper.shared.delegate = self
+    tableView.hideEmptyCells()
   }
   
   public override func viewDidAppear(_ animated: Bool) {
@@ -30,13 +31,13 @@ public class RegionListVC: UIViewController {
   }
   
   @objc public func refresh() {
-    AppHelper.shared.prepareData(isLaunch: false)
+    AppHelper.shared.prepareData(forceDownload: false)
   }
 }
 
 extension RegionListVC: UITableViewDataSource {
   public func numberOfSections(in tableView: UITableView) -> Int {
-    return viewModel.countries.count
+    return viewModel.countryCount()
   }
   
   public func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -70,10 +71,14 @@ extension RegionListVC: AppHelperDelegate {
   public func didUpdate(countries: [Country]) {
     refreshController.endRefreshing()
     viewModel = RegionListViewModel(countries: countries)
+    viewModel.configure(controller: self)
     tableView.reloadData()
   }
   
-  public func thereIsAnAlert(alertView: UIAlertController) {
-    present(alertView, animated: true, completion: nil)
+  public func thereIsAnError(_ error: Error) {
+    let message = "Somethings went wrong when calling api. Press button for try again."
+    tableView.setEmptyMessage(title: "Error", message: message, refreshHandler: {[weak self] in
+      AppHelper.shared.prepareData(forceDownload: true)
+    })
   }
 }

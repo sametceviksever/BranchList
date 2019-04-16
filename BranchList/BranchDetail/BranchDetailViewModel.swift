@@ -20,8 +20,6 @@ public struct BranchDetailViewModel {
   
   public func configure(controller: BranchDetailVC) {
     controller.title = branch.name
-    controller.tableView.estimatedRowHeight = 44
-//    controller.tableView.rowHeight = UITableView.automaticDimension
     controller.tableView.registerCell(type: BranchDetailTVC.self)
   }
   

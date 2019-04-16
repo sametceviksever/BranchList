@@ -9,8 +9,8 @@
 import UIKit
 
 public class RegionListViewModel {
-  var countries: [Country]
-  var selectedIndex: IndexPath?
+  private var countries: [Country]
+  public var selectedIndex: IndexPath?
   private let cellId: String = "cell"
   
   public init(countries: [Country]) {
@@ -22,7 +22,7 @@ public class RegionListViewModel {
     controller.title = "Regions"
     controller.refreshController.addTarget(controller, action: #selector(controller.refresh), for: .valueChanged)
     controller.tableView.addSubview(controller.refreshController)
-    AppHelper.shared.delegate = controller
+    controller.tableView.restore()
   }
   
   public func country(at index: Int) -> Country{
@@ -31,6 +31,10 @@ public class RegionListViewModel {
   
   public func regionCount(at index: Int) -> Int{
     return countries[index].regions.count
+  }
+  
+  public func countryCount() -> Int {
+    return countries.count
   }
   
   public func getRegion(at indexPath: IndexPath) -> Region {

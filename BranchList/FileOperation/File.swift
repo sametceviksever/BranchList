@@ -79,7 +79,14 @@ public struct File {
     return nil
   }
   
-  private func isExistFile(for country: CountryEnum) -> Bool{
+  public func deleteFile(for country: CountryEnum) {
+    guard let folderUrl = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first else {return}
+    let url = folderUrl.appendingPathComponent(String(format: "%@.%@", country.rawValue, fileFormat))
+    
+    try? FileManager.default.removeItem(at: url)
+  }
+  
+  public func isExistFile(for country: CountryEnum) -> Bool{
     guard let folderUrl = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first else {return false}
     let url = folderUrl.appendingPathComponent(String(format: "%@.%@", country.rawValue, fileFormat))
     
@@ -89,5 +96,23 @@ public struct File {
     } catch{
       return false
     }
+  }
+  
+  static func readDataFromFile<T> (with fileName:String, format: String) -> T?
+  {
+    if let path = Bundle.main.path(forResource: fileName, ofType: format) {
+      do {
+        
+        let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .alwaysMapped)
+        let response: T? = data.jsonObject()
+        return response
+        
+      } catch let error {
+        print(error.localizedDescription)
+      }
+    } else {
+      print("Invalid filename/path.")
+    }
+    return nil
   }
 }
